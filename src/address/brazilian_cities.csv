@@ -1,0 +1,5565 @@
+UF	CITY	POPULATION
+RO	Alta Floresta D'Oeste	23857
+RO	Alto Alegre dos Parecis	11615
+RO	Alto Paraíso	16758
+RO	Alvorada D'Oeste	16485
+RO	Ariquemes	82388
+RO	Buritis	33072
+RO	Cabixi	6575
+RO	Cacaulândia	5553
+RO	Cacoal	76155
+RO	Campo Novo de Rondônia	12455
+RO	Candeias do Jamari	16736
+RO	Castanheiras	3624
+RO	Cerejeiras	16290
+RO	Chupinguaia	7456
+RO	Colorado do Oeste	17644
+RO	Corumbiara	9476
+RO	Costa Marques	13664
+RO	Cujubim	13857
+RO	Espigão D'Oeste	27867
+RO	Governador Jorge Teixeira	11432
+RO	Guajará-Mirim	39451
+RO	Itapuã do Oeste	7905
+RO	Jaru	52453
+RO	Ji-Paraná	107679
+RO	Machadinho D'Oeste	31475
+RO	Ministro Andreazza	10343
+RO	Mirante da Serra	12086
+RO	Monte Negro	12357
+RO	Nova Brasilândia D'Oeste	17170
+RO	Nova Mamoré	21162
+RO	Nova União	7750
+RO	Novo Horizonte do Oeste	9648
+RO	Ouro Preto do Oeste	36040
+RO	Parecis	4583
+RO	Pimenta Bueno	32893
+RO	Pimenteiras do Oeste	2358
+RO	Porto Velho	369345
+RO	Presidente Médici	22197
+RO	Primavera de Rondônia	3704
+RO	Rio Crespo	3174
+RO	Rolim de Moura	48894
+RO	Santa Luzia D'Oeste	9264
+RO	São Felipe D'Oeste	6286
+RO	São Francisco do Guaporé	15710
+RO	São Miguel do Guaporé	22622
+RO	Seringueiras	11757
+RO	Teixeirópolis	4919
+RO	Theobroma	9952
+RO	Urupá	13381
+RO	Vale do Anari	8751
+RO	Vale do Paraíso	8742
+RO	Vilhena	66746
+AC	Acrelândia	11520
+AC	Assis Brasil	5351
+AC	Brasiléia	19065
+AC	Bujari	6543
+AC	Capixaba	8446
+AC	Cruzeiro do Sul	73948
+AC	Epitaciolândia	13434
+AC	Feijó	31288
+AC	Jordão	6059
+AC	Mâncio Lima	13785
+AC	Manoel Urbano	7148
+AC	Marechal Thaumaturgo	13061
+AC	Plácido de Castro	17258
+AC	Porto Acre	13716
+AC	Porto Walter	8170
+AC	Rio Branco	290639
+AC	Rodrigues Alves	12428
+AC	Santa Rosa do Purus	3948
+AC	Sena Madureira	34230
+AC	Senador Guiomard	18863
+AC	Tarauacá	32171
+AC	Xapuri	14314
+AM	Alvarães	13010
+AM	Amaturá	8384
+AM	Anamã	8152
+AM	Anori	13834
+AM	Apuí	17451
+AM	Atalaia do Norte	13682
+AM	Autazes	29907
+AM	Barcelos	24567
+AM	Barreirinha	26645
+AM	Benjamin Constant	29268
+AM	Beruri	13809
+AM	Boa Vista do Ramos	13138
+AM	Boca do Acre	29818
+AM	Borba	31098
+AM	Caapiranga	10547
+AM	Canutama	11463
+AM	Carauari	25110
+AM	Careiro	31070
+AM	Careiro da Várzea	23023
+AM	Coari	65222
+AM	Codajás	16025
+AM	Eirunepé	29411
+AM	Envira	16438
+AM	Fonte Boa	19726
+AM	Guajará	14102
+AM	Humaitá	38559
+AM	Ipixuna	17177
+AM	Iranduba	32869
+AM	Itacoatiara	84676
+AM	Itamarati	8078
+AM	Itapiranga	9141
+AM	Japurá	5281
+AM	Juruá	8658
+AM	Jutaí	17129
+AM	Lábrea	36909
+AM	Manacapuru	82309
+AM	Manaquiri	19164
+AM	Manaus	1646602
+AM	Manicoré	44327
+AM	Maraã	17507
+AM	Maués	47020
+AM	Nhamundá	17553
+AM	Nova Olinda do Norte	29184
+AM	Novo Airão	14630
+AM	Novo Aripuanã	18196
+AM	Parintins	102044
+AM	Pauini	18325
+AM	Presidente Figueiredo	24360
+AM	Rio Preto da Eva	24858
+AM	Santa Isabel do Rio Negro	16921
+AM	Santo Antônio do Içá	29249
+AM	São Gabriel da Cachoeira	39130
+AM	São Paulo de Olivença	30727
+AM	São Sebastião do Uatumã	8731
+AM	Silves	8211
+AM	Tabatinga	45293
+AM	Tapauá	19453
+AM	Tefé	62920
+AM	Tonantins	19090
+AM	Uarini	9859
+AM	Urucará	15716
+AM	Urucurituba	17184
+RR	Alto Alegre	14386
+RR	Amajari	7586
+RR	Boa Vista	249853
+RR	Bonfim	10231
+RR	Cantá	11119
+RR	Caracaraí	17981
+RR	Caroebe	7086
+RR	Iracema	5863
+RR	Mucajaí	12546
+RR	Normandia	7118
+RR	Pacaraima	8640
+RR	Rorainópolis	24466
+RR	São João da Baliza	5727
+RR	São Luiz	5720
+RR	Uiramutã	7403
+PA	Abaetetuba	132222
+PA	Abel Figueiredo	6592
+PA	Acará	47923
+PA	Afuá	31183
+PA	Água Azul do Norte	28658
+PA	Alenquer	52661
+PA	Almeirim	30903
+PA	Altamira	92105
+PA	Anajás	24942
+PA	Ananindeua	484278
+PA	Anapu	17787
+PA	Augusto Corrêa	37086
+PA	Aurora do Pará	21239
+PA	Aveiro	18830
+PA	Bagre	18580
+PA	Baião	26190
+PA	Bannach	3812
+PA	Barcarena	84560
+PA	Belém	1408847
+PA	Belterra	12707
+PA	Benevides	43282
+PA	Bom Jesus do Tocantins	13145
+PA	Bonito	11279
+PA	Bragança	101728
+PA	Brasil Novo	18749
+PA	Brejo Grande do Araguaia	7444
+PA	Breu Branco	47069
+PA	Breves	94458
+PA	Bujaru	22535
+PA	Cachoeira do Arari	18995
+PA	Cachoeira do Piriá	17649
+PA	Cametá	110323
+PA	Canaã dos Carajás	23757
+PA	Capanema	61350
+PA	Capitão Poço	50839
+PA	Castanhal	152126
+PA	Chaves	19368
+PA	Colares	10981
+PA	Conceição do Araguaia	45267
+PA	Concórdia do Pará	21422
+PA	Cumaru do Norte	10452
+PA	Curionópolis	17769
+PA	Curralinho	25388
+PA	Curuá	11928
+PA	Curuçá	33768
+PA	Dom Eliseu	38150
+PA	Eldorado dos Carajás	28554
+PA	Faro	17253
+PA	Floresta do Araguaia	14964
+PA	Garrafão do Norte	24619
+PA	Goianésia do Pará	27166
+PA	Gurupá	24384
+PA	Igarapé-Açu	33778
+PA	Igarapé-Miri	54673
+PA	Inhangapi	9592
+PA	Ipixuna do Pará	39563
+PA	Irituia	29746
+PA	Itaituba	118194
+PA	Itupiranga	42002
+PA	Jacareacanga	37073
+PA	Jacundá	51511
+PA	Juruti	33775
+PA	Limoeiro do Ajuru	23284
+PA	Mãe do Rio	27614
+PA	Magalhães Barata	7650
+PA	Marabá	196468
+PA	Maracanã	28296
+PA	Marapanim	26651
+PA	Marituba	93416
+PA	Medicilândia	22624
+PA	Melgaço	17845
+PA	Mocajuba	23258
+PA	Moju	63821
+PA	Monte Alegre	61350
+PA	Muaná	28796
+PA	Nova Esperança do Piriá	22447
+PA	Nova Ipixuna	14086
+PA	Nova Timboteua	12103
+PA	Novo Progresso	21598
+PA	Novo Repartimento	51645
+PA	Óbidos	46793
+PA	Oeiras do Pará	25420
+PA	Oriximiná	55175
+PA	Ourém	15152
+PA	Ourilândia do Norte	20415
+PA	Pacajá	38365
+PA	Palestina do Pará	7156
+PA	Paragominas	90819
+PA	Parauapebas	133298
+PA	Pau D'Arco	6466
+PA	Peixe-Boi	7679
+PA	Piçarra	12707
+PA	Placas	17898
+PA	Ponta de Pedras	24276
+PA	Portel	45586
+PA	Porto de Moz	26489
+PA	Prainha	26436
+PA	Primavera	10463
+PA	Quatipuru	12620
+PA	Redenção	64583
+PA	Rio Maria	16993
+PA	Rondon do Pará	45016
+PA	Rurópolis	32950
+PA	Salinópolis	37066
+PA	Salvaterra	17077
+PA	Santa Bárbara do Pará	13714
+PA	Santa Cruz do Arari	5921
+PA	Santa Isabel do Pará	51763
+PA	Santa Luzia do Pará	18123
+PA	Santa Maria das Barreiras	16012
+PA	Santa Maria do Pará	22147
+PA	Santana do Araguaia	49053
+PA	Santarém	274285
+PA	Santarém Novo	6007
+PA	Santo Antônio do Tauá	24814
+PA	São Caetano de Odivelas	16179
+PA	São Domingos do Araguaia	21094
+PA	São Domingos do Capim	27094
+PA	São Félix do Xingu	59238
+PA	São Francisco do Pará	11913
+PA	São Geraldo do Araguaia	24872
+PA	São João da Ponta	4715
+PA	São João de Pirabas	18919
+PA	São João do Araguaia	11673
+PA	São Miguel do Guamá	42987
+PA	São Sebastião da Boa Vista	20500
+PA	Sapucaia	5117
+PA	Senador José Porfírio	14302
+PA	Soure	21395
+PA	Tailândia	64281
+PA	Terra Alta	9861
+PA	Terra Santa	15316
+PA	Tomé-Açu	47081
+PA	Tracuateua	26129
+PA	Trairão	16097
+PA	Tucumã	26513
+PA	Tucuruí	89264
+PA	Ulianópolis	31881
+PA	Uruará	59881
+PA	Vigia	43847
+PA	Viseu	53217
+PA	Vitória do Xingu	9693
+PA	Xinguara	38457
+AP	Amapá	7492
+AP	Calçoene	8656
+AP	Cutias	4320
+AP	Ferreira Gomes	5040
+AP	Itaubal	3439
+AP	Laranjal do Jari	37491
+AP	Macapá	344153
+AP	Mazagão	13862
+AP	Oiapoque	19181
+AP	Pedra Branca do Amapari	7332
+AP	Porto Grande	13962
+AP	Pracuúba	3353
+AP	Santana	92098
+AP	Serra do Navio	3772
+AP	Tartarugalzinho	12395
+AP	Vitória do Jari	10765
+TO	Abreulândia	2245
+TO	Aguiarnópolis	3995
+TO	Aliança do Tocantins	5701
+TO	Almas	7488
+TO	Alvorada	7976
+TO	Ananás	9358
+TO	Angico	3169
+TO	Aparecida do Rio Negro	4018
+TO	Aragominas	5469
+TO	Araguacema	5423
+TO	Araguaçu	8989
+TO	Araguaína	115759
+TO	Araguanã	5000
+TO	Araguatins	25973
+TO	Arapoema	6839
+TO	Arraias	10626
+TO	Augustinópolis	14800
+TO	Aurora do Tocantins	3385
+TO	Axixá do Tocantins	8917
+TO	Babaçulândia	10372
+TO	Bandeirantes do Tocantins	2711
+TO	Barra do Ouro	3581
+TO	Barrolândia	5155
+TO	Bernardo Sayão	4518
+TO	Bom Jesus do Tocantins	2710
+TO	Brasilândia do Tocantins	2119
+TO	Brejinho de Nazaré	5295
+TO	Buriti do Tocantins	8164
+TO	Cachoeirinha	2171
+TO	Campos Lindos	7615
+TO	Cariri do Tocantins	3562
+TO	Carmolândia	2313
+TO	Carrasco Bonito	3314
+TO	Caseara	4667
+TO	Centenário	2386
+TO	Chapada da Natividade	3680
+TO	Chapada de Areia	1239
+TO	Colinas do Tocantins	29298
+TO	Colméia	8759
+TO	Combinado	4878
+TO	Conceição do Tocantins	4402
+TO	Couto de Magalhães	4887
+TO	Cristalândia	6520
+TO	Crixás do Tocantins	1264
+TO	Darcinópolis	5130
+TO	Dianópolis	18584
+TO	Divinópolis do Tocantins	6359
+TO	Dois Irmãos do Tocantins	7060
+TO	Dueré	4489
+TO	Esperantina	8134
+TO	Fátima	3984
+TO	Figueirópolis	4820
+TO	Filadélfia	7787
+TO	Formoso do Araguaia	18225
+TO	Fortaleza do Tabocão	2101
+TO	Goianorte	5221
+TO	Goiatins	11639
+TO	Guaraí	21669
+TO	Gurupi	71413
+TO	Ipueiras	1698
+TO	Itacajá	6386
+TO	Itaguatins	6074
+TO	Itapiratins	3421
+TO	Itaporã do Tocantins	2989
+TO	Jaú do Tocantins	3789
+TO	Juarina	2141
+TO	Lagoa da Confusão	8220
+TO	Lagoa do Tocantins	3179
+TO	Lajeado	2159
+TO	Lavandeira	1590
+TO	Lizarda	3634
+TO	Luzinópolis	2784
+TO	Marianópolis do Tocantins	4473
+TO	Mateiros	1737
+TO	Maurilândia do Tocantins	3185
+TO	Miracema do Tocantins	19683
+TO	Miranorte	11858
+TO	Monte do Carmo	6387
+TO	Monte Santo do Tocantins	1858
+TO	Muricilândia	2850
+TO	Natividade	9090
+TO	Nazaré	4528
+TO	Nova Olinda	10518
+TO	Nova Rosalândia	3772
+TO	Novo Acordo	3754
+TO	Novo Alegre	1801
+TO	Novo Jardim	2419
+TO	Oliveira de Fátima	1081
+TO	Palmas	178386
+TO	Palmeirante	4689
+TO	Palmeiras do Tocantins	4542
+TO	Palmeirópolis	8120
+TO	Paraíso do Tocantins	40290
+TO	Paranã	10491
+TO	Pau D'Arco	4767
+TO	Pedro Afonso	10294
+TO	Peixe	8750
+TO	Pequizeiro	4799
+TO	Pindorama do Tocantins	4397
+TO	Piraquê	3014
+TO	Pium	6403
+TO	Ponte Alta do Bom Jesus	4529
+TO	Ponte Alta do Tocantins	6569
+TO	Porto Alegre do Tocantins	2830
+TO	Porto Nacional	45289
+TO	Praia Norte	7060
+TO	Presidente Kennedy	3680
+TO	Pugmil	2165
+TO	Recursolândia	3665
+TO	Riachinho	3691
+TO	Rio da Conceição	1454
+TO	Rio dos Bois	2092
+TO	Rio Sono	6167
+TO	Sampaio	3672
+TO	Sandolândia	3443
+TO	Santa Fé do Araguaia	5610
+TO	Santa Maria do Tocantins	2673
+TO	Santa Rita do Tocantins	2260
+TO	Santa Rosa do Tocantins	4417
+TO	Santa Tereza do Tocantins	2297
+TO	Santa Terezinha do Tocantins	2291
+TO	São Bento do Tocantins	4447
+TO	São Félix do Tocantins	1409
+TO	São Miguel do Tocantins	10221
+TO	São Salvador do Tocantins	3012
+TO	São Sebastião do Tocantins	4244
+TO	São Valério da Natividade	4885
+TO	Silvanópolis	5098
+TO	Sítio Novo do Tocantins	9302
+TO	Sucupira	1667
+TO	Taguatinga	14110
+TO	Taipas do Tocantins	1916
+TO	Talismã	2555
+TO	Tocantínia	6663
+TO	Tocantinópolis	21334
+TO	Tupirama	1405
+TO	Tupiratins	2007
+TO	Wanderlândia	9317
+TO	Xambioá	10856
+MA	Açailândia	97034
+MA	Afonso Cunha	5651
+MA	Água Doce do Maranhão	11829
+MA	Alcântara	21349
+MA	Aldeias Altas	21645
+MA	Altamira do Maranhão	7365
+MA	Alto Alegre do Maranhão	22002
+MA	Alto Alegre do Pindaré	31992
+MA	Alto Parnaíba	10304
+MA	Amapá do Maranhão	6168
+MA	Amarante do Maranhão	35727
+MA	Anajatuba	23941
+MA	Anapurus	12580
+MA	Apicum-Açu	13216
+MA	Araguanã	9918
+MA	Araioses	37655
+MA	Arame	27229
+MA	Arari	27753
+MA	Axixá	14249
+MA	Bacabal	95124
+MA	Bacabeira	14611
+MA	Bacuri	16026
+MA	Bacurituba	5425
+MA	Balsas	78845
+MA	Barão de Grajaú	16565
+MA	Barra do Corda	78718
+MA	Barreirinhas	47850
+MA	Bela Vista do Maranhão	8603
+MA	Belágua	5717
+MA	Benedito Leite	5387
+MA	Bequimão	20735
+MA	Bernardo do Mearim	5972
+MA	Boa Vista do Gurupi	7385
+MA	Bom Jardim	37659
+MA	Bom Jesus das Selvas	23827
+MA	Bom Lugar	12825
+MA	Brejo	31049
+MA	Brejo de Areia	5803
+MA	Buriti	25274
+MA	Buriti Bravo	22279
+MA	Buriticupu	61480
+MA	Buritirana	12596
+MA	Cachoeira Grande	8831
+MA	Cajapió	9982
+MA	Cajari	12842
+MA	Campestre do Maranhão	12246
+MA	Cândido Mendes	18820
+MA	Cantanhede	18827
+MA	Capinzal do Norte	10385
+MA	Carolina	24442
+MA	Carutapera	20285
+MA	Caxias	143197
+MA	Cedral	9841
+MA	Central do Maranhão	8776
+MA	Centro do Guilherme	7094
+MA	Centro Novo do Maranhão	15127
+MA	Chapadinha	67649
+MA	Cidelândia	12407
+MA	Codó	110574
+MA	Coelho Neto	44031
+MA	Colinas	35692
+MA	Conceição do Lago-Açu	14063
+MA	Coroatá	60589
+MA	Cururupu	34018
+MA	Davinópolis	11786
+MA	Dom Pedro	21479
+MA	Duque Bacelar	10384
+MA	Esperantinópolis	18569
+MA	Estreito	26490
+MA	Feira Nova do Maranhão	7648
+MA	Fernando Falcão	8105
+MA	Formosa da Serra Negra	16882
+MA	Fortaleza dos Nogueiras	11578
+MA	Fortuna	14486
+MA	Godofredo Viana	10452
+MA	Gonçalves Dias	16444
+MA	Governador Archer	9920
+MA	Governador Edison Lobão	14086
+MA	Governador Eugênio Barros	15857
+MA	Governador Luiz Rocha	6884
+MA	Governador Newton Bello	11346
+MA	Governador Nunes Freire	24012
+MA	Graça Aranha	6254
+MA	Grajaú	54135
+MA	Guimarães	12387
+MA	Humberto de Campos	24275
+MA	Icatu	24432
+MA	Igarapé do Meio	11697
+MA	Igarapé Grande	10676
+MA	Imperatriz	229671
+MA	Itaipava do Grajaú	13197
+MA	Itapecuru Mirim	54573
+MA	Itinga do Maranhão	25100
+MA	Jatobá	8255
+MA	Jenipapo dos Vieiras	14815
+MA	João Lisboa	19928
+MA	Joselândia	15583
+MA	Junco do Maranhão	4014
+MA	Lago da Pedra	42666
+MA	Lago do Junco	9616
+MA	Lago dos Rodrigues	7780
+MA	Lago Verde	14580
+MA	Lagoa do Mato	10225
+MA	Lagoa Grande do Maranhão	9015
+MA	Lajeado Novo	6620
+MA	Lima Campos	11365
+MA	Loreto	10340
+MA	Luís Domingues	6672
+MA	Magalhães de Almeida	14217
+MA	Maracaçumé	17537
+MA	Marajá do Sena	6790
+MA	Maranhãozinho	11887
+MA	Mata Roma	13812
+MA	Matinha	20422
+MA	Matões	28278
+MA	Matões do Norte	10576
+MA	Milagres do Maranhão	7617
+MA	Mirador	19445
+MA	Miranda do Norte	17742
+MA	Mirinzal	13786
+MA	Monção	27558
+MA	Montes Altos	8828
+MA	Morros	17077
+MA	Nina Rodrigues	10003
+MA	Nova Colinas	4829
+MA	Nova Iorque	4892
+MA	Nova Olinda do Maranhão	17121
+MA	Olho d'Água das Cunhãs	17361
+MA	Olinda Nova do Maranhão	12068
+MA	Paço do Lumiar	98175
+MA	Palmeirândia	18105
+MA	Paraibano	19453
+MA	Parnarama	34912
+MA	Passagem Franca	17085
+MA	Pastos Bons	17507
+MA	Paulino Neves	12799
+MA	Paulo Ramos	16129
+MA	Pedreiras	37984
+MA	Pedro do Rosário	21714
+MA	Penalva	33473
+MA	Peri Mirim	12219
+MA	Peritoró	19017
+MA	Pindaré-Mirim	30927
+MA	Pinheiro	74123
+MA	Pio XII	21821
+MA	Pirapemas	15043
+MA	Poção de Pedras	15853
+MA	Porto Franco	18692
+MA	Porto Rico do Maranhão	6900
+MA	Presidente Dutra	40004
+MA	Presidente Juscelino	11705
+MA	Presidente Médici	6058
+MA	Presidente Sarney	15606
+MA	Presidente Vargas	9798
+MA	Primeira Cruz	11999
+MA	Raposa	24201
+MA	Riachão	21016
+MA	Ribamar Fiquene	7170
+MA	Rosário	37920
+MA	Sambaíba	5792
+MA	Santa Filomena do Maranhão	5526
+MA	Santa Helena	34022
+MA	Santa Inês	82026
+MA	Santa Luzia	69306
+MA	Santa Luzia do Paruá	19633
+MA	Santa Quitéria do Maranhão	28341
+MA	Santa Rita	30882
+MA	Santana do Maranhão	10537
+MA	Santo Amaro do Maranhão	11155
+MA	Santo Antônio dos Lopes	14225
+MA	São Benedito do Rio Preto	17191
+MA	São Bento	37449
+MA	São Bernardo	25480
+MA	São Domingos do Azeitão	6953
+MA	São Domingos do Maranhão	32557
+MA	São Félix de Balsas	4398
+MA	São Francisco do Brejão	8431
+MA	São Francisco do Maranhão	14194
+MA	São João Batista	18108
+MA	São João do Carú	12281
+MA	São João do Paraíso	11267
+MA	São João do Soter	16592
+MA	São João dos Patos	23576
+MA	São José de Ribamar	131379
+MA	São José dos Basílios	7282
+MA	São Luís	957515
+MA	São Luís Gonzaga do Maranhão	19655
+MA	São Mateus do Maranhão	38045
+MA	São Pedro da Água Branca	11113
+MA	São Pedro dos Crentes	4020
+MA	São Raimundo das Mangabeiras	15962
+MA	São Raimundo do Doca Bezerra	4502
+MA	São Roberto	4989
+MA	São Vicente Ferrer	19692
+MA	Satubinha	8399
+MA	Senador Alexandre Costa	9071
+MA	Senador La Rocque	20793
+MA	Serrano do Maranhão	10576
+MA	Sítio Novo	15549
+MA	Sucupira do Norte	10235
+MA	Sucupira do Riachão	4675
+MA	Tasso Fragoso	6652
+MA	Timbiras	26132
+MA	Timon	144333
+MA	Trizidela do Vale	18300
+MA	Tufilândia	5517
+MA	Tuntum	37894
+MA	Turiaçu	32491
+MA	Turilândia	20119
+MA	Tutóia	46280
+MA	Urbano Santos	21747
+MA	Vargem Grande	43228
+MA	Viana	47466
+MA	Vila Nova dos Martírios	8671
+MA	Vitória do Mearim	30935
+MA	Vitorino Freire	30235
+MA	Zé Doca	45008
+PI	Acauã	6300
+PI	Agricolândia	4980
+PI	Água Branca	15887
+PI	Alagoinha do Piauí	7447
+PI	Alegrete do Piauí	4482
+PI	Alto Longá	13612
+PI	Altos	38328
+PI	Alvorada do Gurguéia	4976
+PI	Amarante	17316
+PI	Angical do Piauí	6609
+PI	Anísio de Abreu	8197
+PI	Antônio Almeida	3140
+PI	Aroazes	5857
+PI	Aroeiras do Itaim	2654
+PI	Arraial	5002
+PI	Assunção do Piauí	8011
+PI	Avelino Lopes	11507
+PI	Baixa Grande do Ribeiro	10232
+PI	Barra D'Alcântara	3774
+PI	Barras	43328
+PI	Barreiras do Piauí	3355
+PI	Barro Duro	6661
+PI	Batalha	25724
+PI	Bela Vista do Piauí	3344
+PI	Belém do Piauí	2788
+PI	Beneditinos	9560
+PI	Bertolínia	5302
+PI	Betânia do Piauí	9312
+PI	Boa Hora	6086
+PI	Bocaina	4039
+PI	Bom Jesus	19532
+PI	Bom Princípio do Piauí	5276
+PI	Bonfim do Piauí	5185
+PI	Boqueirão do Piauí	6325
+PI	Brasileira	7699
+PI	Brejo do Piauí	3181
+PI	Buriti dos Lopes	19150
+PI	Buriti dos Montes	7820
+PI	Cabeceiras do Piauí	9438
+PI	Cajazeiras do Piauí	3193
+PI	Cajueiro da Praia	6981
+PI	Caldeirão Grande do Piauí	5622
+PI	Campinas do Piauí	5598
+PI	Campo Alegre do Fidalgo	4451
+PI	Campo Grande do Piauí	5645
+PI	Campo Largo do Piauí	6726
+PI	Campo Maior	44548
+PI	Canavieira	3984
+PI	Canto do Buriti	20673
+PI	Capitão de Campos	10830
+PI	Capitão Gervásio Oliveira	3865
+PI	Caracol	10343
+PI	Caraúbas do Piauí	5371
+PI	Caridade do Piauí	4583
+PI	Castelo do Piauí	18550
+PI	Caxingó	5023
+PI	Cocal	26201
+PI	Cocal de Telha	4522
+PI	Cocal dos Alves	5341
+PI	Coivaras	3797
+PI	Colônia do Gurguéia	5700
+PI	Colônia do Piauí	7662
+PI	Conceição do Canindé	4923
+PI	Coronel José Dias	4356
+PI	Corrente	24518
+PI	Cristalândia do Piauí	7800
+PI	Cristino Castro	9518
+PI	Curimatá	10360
+PI	Currais	4538
+PI	Curral Novo do Piauí	4898
+PI	Curralinhos	4072
+PI	Demerval Lobão	12806
+PI	Dirceu Arcoverde	6721
+PI	Dom Expedito Lopes	6532
+PI	Dom Inocêncio	10329
+PI	Domingos Mourão	4312
+PI	Elesbão Veloso	14174
+PI	Eliseu Martins	4722
+PI	Esperantina	36190
+PI	Fartura do Piauí	5190
+PI	Flores do Piauí	4468
+PI	Floresta do Piauí	2551
+PI	Floriano	56090
+PI	Francinópolis	5292
+PI	Francisco Ayres	5017
+PI	Francisco Macedo	2255
+PI	Francisco Santos	8293
+PI	Fronteiras	11054
+PI	Geminiano	5255
+PI	Gilbués	10351
+PI	Guadalupe	9587
+PI	Guaribas	4343
+PI	Hugo Napoleão	3674
+PI	Ilha Grande	8420
+PI	Inhuma	14973
+PI	Ipiranga do Piauí	9354
+PI	Isaías Coelho	7790
+PI	Itainópolis	11084
+PI	Itaueira	10558
+PI	Jacobina do Piauí	5597
+PI	Jaicós	16826
+PI	Jardim do Mulato	4171
+PI	Jatobá do Piauí	4523
+PI	Jerumenha	4371
+PI	João Costa	3199
+PI	Joaquim Pires	13779
+PI	Joca Marques	5345
+PI	José de Freitas	35164
+PI	Juazeiro do Piauí	4769
+PI	Júlio Borges	5250
+PI	Jurema	4388
+PI	Lagoa Alegre	7862
+PI	Lagoa de São Francisco	6520
+PI	Lagoa do Barro do Piauí	4543
+PI	Lagoa do Piauí	3684
+PI	Lagoa do Sítio	5042
+PI	Lagoinha do Piauí	2563
+PI	Landri Sales	5586
+PI	Luís Correia	26147
+PI	Luzilândia	24323
+PI	Madeiro	7680
+PI	Manoel Emídio	5357
+PI	Marcolândia	7154
+PI	Marcos Parente	4198
+PI	Massapê do Piauí	6428
+PI	Matias Olímpio	10465
+PI	Miguel Alves	32178
+PI	Miguel Leão	1194
+PI	Milton Brandão	7030
+PI	Monsenhor Gil	10321
+PI	Monsenhor Hipólito	7163
+PI	Monte Alegre do Piauí	10335
+PI	Morro Cabeça no Tempo	4241
+PI	Morro do Chapéu do Piauí	6377
+PI	Murici dos Portelas	7655
+PI	Nazaré do Piauí	6947
+PI	Nossa Senhora de Nazaré	4048
+PI	Nossa Senhora dos Remédios	8044
+PI	Nova Santa Rita	4284
+PI	Novo Oriente do Piauí	6191
+PI	Novo Santo Antônio	3383
+PI	Oeiras	35075
+PI	Olho D'Água do Piauí	2637
+PI	Padre Marcos	7340
+PI	Paes Landim	4462
+PI	Pajeú do Piauí	3616
+PI	Palmeira do Piauí	4985
+PI	Palmeirais	13721
+PI	Paquetá	4531
+PI	Parnaguá	10313
+PI	Parnaíba	140839
+PI	Passagem Franca do Piauí	4127
+PI	Patos do Piauí	6171
+PI	Pau D'Arco do Piauí	3713
+PI	Paulistana	16930
+PI	Pavussu	4291
+PI	Pedro II	36675
+PI	Pedro Laurentino	2105
+PI	Picos	70450
+PI	Pimenteiras	11722
+PI	Pio IX	17123
+PI	Piracuruca	25625
+PI	Piripiri	60249
+PI	Porto	11492
+PI	Porto Alegre do Piauí	2468
+PI	Prata do Piauí	3159
+PI	Queimada Nova	9146
+PI	Redenção do Gurguéia	8263
+PI	Regeneração	17633
+PI	Riacho Frio	4884
+PI	Ribeira do Piauí	4103
+PI	Ribeiro Gonçalves	6577
+PI	Rio Grande do Piauí	6430
+PI	Santa Cruz do Piauí	5790
+PI	Santa Cruz dos Milagres	3352
+PI	Santa Filomena	5999
+PI	Santa Luz	5280
+PI	Santa Rosa do Piauí	5149
+PI	Santana do Piauí	4841
+PI	Santo Antônio de Lisboa	5729
+PI	Santo Antônio dos Milagres	1965
+PI	Santo Inácio do Piauí	3626
+PI	São Braz do Piauí	4311
+PI	São Félix do Piauí	3132
+PI	São Francisco de Assis do Piauí	5015
+PI	São Francisco do Piauí	6276
+PI	São Gonçalo do Gurguéia	2455
+PI	São Gonçalo do Piauí	4342
+PI	São João da Canabrava	4364
+PI	São João da Fronteira	5008
+PI	São João da Serra	6672
+PI	São João da Varjota	4776
+PI	São João do Arraial	7081
+PI	São João do Piauí	18689
+PI	São José do Divino	5045
+PI	São José do Peixe	3730
+PI	São José do Piauí	6808
+PI	São Julião	5908
+PI	São Lourenço do Piauí	4899
+PI	São Luis do Piauí	2596
+PI	São Miguel da Baixa Grande	2083
+PI	São Miguel do Fidalgo	3078
+PI	São Miguel do Tapuio	19201
+PI	São Pedro do Piauí	13083
+PI	São Raimundo Nonato	30852
+PI	Sebastião Barros	4178
+PI	Sebastião Leal	4080
+PI	Sigefredo Pacheco	9506
+PI	Simões	13734
+PI	Simplício Mendes	11472
+PI	Socorro do Piauí	4599
+PI	Sussuapara	5537
+PI	Tamboril do Piauí	2897
+PI	Tanque do Piauí	2605
+PI	Teresina	779939
+PI	União	41661
+PI	Uruçuí	19017
+PI	Valença do Piauí	19716
+PI	Várzea Branca	5178
+PI	Várzea Grande	4429
+PI	Vera Mendes	3097
+PI	Vila Nova do Piauí	3030
+PI	Wall Ferraz	4452
+CE	Abaiara	10227
+CE	Acarape	14658
+CE	Acaraú	52123
+CE	Acopiara	48703
+CE	Aiuaba	15585
+CE	Alcântaras	10270
+CE	Altaneira	6417
+CE	Alto Santo	19154
+CE	Amontada	37513
+CE	Antonina do Norte	6761
+CE	Apuiarés	13649
+CE	Aquiraz	67265
+CE	Aracati	66049
+CE	Aracoiaba	24423
+CE	Ararendá	10649
+CE	Araripe	21214
+CE	Aratuba	12129
+CE	Arneiroz	7302
+CE	Assaré	21616
+CE	Aurora	24480
+CE	Baixio	5780
+CE	Banabuiú	17448
+CE	Barbalha	50386
+CE	Barreira	18453
+CE	Barro	20673
+CE	Barroquinha	14812
+CE	Baturité	31669
+CE	Beberibe	46155
+CE	Bela Cruz	29566
+CE	Boa Viagem	53538
+CE	Brejo Santo	39613
+CE	Camocim	58470
+CE	Campos Sales	25553
+CE	Canindé	73878
+CE	Capistrano	16403
+CE	Caridade	17977
+CE	Cariré	18527
+CE	Caririaçu	26325
+CE	Cariús	18649
+CE	Carnaubal	16001
+CE	Cascavel	63932
+CE	Catarina	17028
+CE	Catunda	10508
+CE	Caucaia	316906
+CE	Cedro	24607
+CE	Chaval	12215
+CE	Choró	12790
+CE	Chorozinho	18261
+CE	Coreaú	21171
+CE	Crateús	72386
+CE	Crato	111198
+CE	Croatá	17317
+CE	Cruz	22144
+CE	Deputado Irapuan Pinheiro	9108
+CE	Ererê	6927
+CE	Eusébio	38189
+CE	Farias Brito	19244
+CE	Forquilha	20181
+CE	Fortaleza	2431415
+CE	Fortim	14072
+CE	Frecheirinha	12830
+CE	General Sampaio	6540
+CE	Graça	15297
+CE	Granja	51410
+CE	Granjeiro	4931
+CE	Groaíras	9456
+CE	Guaiúba	22405
+CE	Guaraciaba do Norte	36705
+CE	Guaramiranga	4307
+CE	Hidrolândia	18534
+CE	Horizonte	48660
+CE	Ibaretama	12735
+CE	Ibiapina	23088
+CE	Ibicuitinga	11000
+CE	Icapuí	18186
+CE	Icó	63262
+CE	Iguatu	92260
+CE	Independência	25413
+CE	Ipaporanga	11353
+CE	Ipaumirim	11591
+CE	Ipu	39438
+CE	Ipueiras	38044
+CE	Iracema	14313
+CE	Irauçuba	21921
+CE	Itaiçaba	7462
+CE	Itaitinga	31107
+CE	Itapagé	45426
+CE	Itapipoca	107281
+CE	Itapiúna	17602
+CE	Itarema	34296
+CE	Itatira	17689
+CE	Jaguaretama	17851
+CE	Jaguaribara	9780
+CE	Jaguaribe	35237
+CE	Jaguaruana	30965
+CE	Jardim	25810
+CE	Jati	7270
+CE	Jijoca de Jericoacoara	15442
+CE	Juazeiro do Norte	242139
+CE	Jucás	22890
+CE	Lavras da Mangabeira	29872
+CE	Limoeiro do Norte	53289
+CE	Madalena	17051
+CE	Maracanaú	197301
+CE	Maranguape	102982
+CE	Marco	23107
+CE	Martinópole	10304
+CE	Massapê	33256
+CE	Mauriti	41679
+CE	Meruoca	12148
+CE	Milagres	27355
+CE	Milhã	14111
+CE	Miraíma	12131
+CE	Missão Velha	33690
+CE	Mombaça	44364
+CE	Monsenhor Tabosa	16557
+CE	Morada Nova	61751
+CE	Moraújo	8005
+CE	Morrinhos	21111
+CE	Mucambo	14007
+CE	Mulungu	10975
+CE	Nova Olinda	12974
+CE	Nova Russas	30615
+CE	Novo Oriente	27418
+CE	Ocara	23359
+CE	Orós	21268
+CE	Pacajus	54881
+CE	Pacatuba	65772
+CE	Pacoti	11097
+CE	Pacujá	5950
+CE	Palhano	8797
+CE	Palmácia	10352
+CE	Paracuru	30665
+CE	Paraipaba	28192
+CE	Parambu	30596
+CE	Paramoti	11573
+CE	Pedra Branca	40762
+CE	Penaforte	7715
+CE	Pentecoste	33717
+CE	Pereiro	15291
+CE	Pindoretama	17143
+CE	Piquet Carneiro	14736
+CE	Pires Ferreira	9483
+CE	Poranga	11905
+CE	Porteiras	14792
+CE	Potengi	9670
+CE	Potiretama	6478
+CE	Quiterianópolis	20079
+CE	Quixadá	76105
+CE	Quixelô	15708
+CE	Quixeramobim	68966
+CE	Quixeré	18652
+CE	Redenção	25702
+CE	Reriutaba	19310
+CE	Russas	63975
+CE	Saboeiro	16282
+CE	Salitre	15798
+CE	Santa Quitéria	43344
+CE	Santana do Acaraú	28741
+CE	Santana do Cariri	17574
+CE	São Benedito	43077
+CE	São Gonçalo do Amarante	40312
+CE	São João do Jaguaribe	8310
+CE	São Luís do Curu	12052
+CE	Senador Pompeu	25290
+CE	Senador Sá	6274
+CE	Sobral	176895
+CE	Solonópole	17340
+CE	Tabuleiro do Norte	28291
+CE	Tamboril	25459
+CE	Tarrafas	8734
+CE	Tauá	54273
+CE	Tejuçuoca	15062
+CE	Tianguá	64612
+CE	Trairi	48620
+CE	Tururu	13350
+CE	Ubajara	29569
+CE	Umari	7591
+CE	Umirim	18195
+CE	Uruburetama	19218
+CE	Uruoca	12973
+CE	Varjota	17087
+CE	Várzea Alegre	37740
+CE	Viçosa do Ceará	52855
+RN	Acari	10911
+RN	Açu	51262
+RN	Afonso Bezerra	10339
+RN	Água Nova	2843
+RN	Alexandria	13729
+RN	Almino Afonso	4948
+RN	Alto do Rodrigues	11443
+RN	Angicos	11227
+RN	Antônio Martins	6997
+RN	Apodi	34632
+RN	Areia Branca	24398
+RN	Arês	12236
+RN	Augusto Severo	8936
+RN	Baía Formosa	8466
+RN	Baraúna	23098
+RN	Barcelona	3928
+RN	Bento Fernandes	5006
+RN	Bodó	2542
+RN	Bom Jesus	8478
+RN	Brejinho	11135
+RN	Caiçara do Norte	6384
+RN	Caiçara do Rio do Vento	3064
+RN	Caicó	60656
+RN	Campo Redondo	10462
+RN	Canguaretama	29334
+RN	Caraúbas	19739
+RN	Carnaúba dos Dantas	6836
+RN	Carnaubais	9284
+RN	Ceará-Mirim	65450
+RN	Cerro Corá	10890
+RN	Coronel Ezequiel	5255
+RN	Coronel João Pessoa	4827
+RN	Cruzeta	7825
+RN	Currais Novos	42066
+RN	Doutor Severiano	6431
+RN	Encanto	5158
+RN	Equador	5875
+RN	Espírito Santo	10132
+RN	Extremoz	21792
+RN	Felipe Guerra	5680
+RN	Fernando Pedroza	2876
+RN	Florânia	8313
+RN	Francisco Dantas	2928
+RN	Frutuoso Gomes	4360
+RN	Galinhos	2149
+RN	Goianinha	20347
+RN	Governador Dix-Sept Rosado	12374
+RN	Grossos	9441
+RN	Guamaré	11737
+RN	Ielmo Marinho	11649
+RN	Ipanguaçu	13444
+RN	Ipueira	2035
+RN	Itajá	6410
+RN	Itaú	5758
+RN	Jaçanã	7788
+RN	Jandaíra	6447
+RN	Janduís	5416
+RN	Januário Cicco	8294
+RN	Japi	5610
+RN	Jardim de Angicos	2536
+RN	Jardim de Piranhas	13704
+RN	Jardim do Seridó	12013
+RN	João Câmara	30423
+RN	João Dias	2723
+RN	José da Penha	5982
+RN	Jucurutu	17501
+RN	Jundiá	3517
+RN	Lagoa d'Anta	5940
+RN	Lagoa de Pedras	6989
+RN	Lagoa de Velhos	2699
+RN	Lagoa Nova	13167
+RN	Lagoa Salgada	7179
+RN	Lajes	10412
+RN	Lajes Pintadas	4217
+RN	Lucrécia	3418
+RN	Luís Gomes	9763
+RN	Macaíba	63337
+RN	Macau	27132
+RN	Major Sales	3459
+RN	Marcelino Vieira	8112
+RN	Martins	8089
+RN	Maxaranguape	8969
+RN	Messias Targino	3795
+RN	Montanhas	12393
+RN	Monte Alegre	20590
+RN	Monte das Gameleiras	2394
+RN	Mossoró	234390
+RN	Natal	774230
+RN	Nísia Floresta	22906
+RN	Nova Cruz	35280
+RN	Olho-d'Água do Borges	4442
+RN	Ouro Branco	4973
+RN	Paraná	3886
+RN	Paraú	3880
+RN	Parazinho	4772
+RN	Parelhas	19972
+RN	Parnamirim	172751
+RN	Passa e Fica	10372
+RN	Passagem	2629
+RN	Patu	11303
+RN	Pau dos Ferros	26728
+RN	Pedra Grande	3918
+RN	Pedra Preta	2659
+RN	Pedro Avelino	7405
+RN	Pedro Velho	13673
+RN	Pendências	12505
+RN	Pilões	3381
+RN	Poço Branco	12288
+RN	Portalegre	6855
+RN	Porto do Mangue	4792
+RN	Presidente Juscelino	8283
+RN	Pureza	8030
+RN	Rafael Fernandes	4608
+RN	Rafael Godeiro	3131
+RN	Riacho da Cruz	3025
+RN	Riacho de Santana	4292
+RN	Riachuelo	6824
+RN	Rio do Fogo	9753
+RN	Rodolfo Fernandes	4569
+RN	Ruy Barbosa	3625
+RN	Santa Cruz	33736
+RN	Santa Maria	4659
+RN	Santana do Matos	14312
+RN	Santana do Seridó	2729
+RN	Santo Antônio	21263
+RN	São Bento do Norte	3529
+RN	São Bento do Trairí	3702
+RN	São Fernando	3381
+RN	São Francisco do Oeste	3669
+RN	São Gonçalo do Amarante	77363
+RN	São João do Sabugi	5765
+RN	São José de Mipibu	36990
+RN	São José do Campestre	11744
+RN	São José do Seridó	3925
+RN	São Miguel	22579
+RN	São Miguel do Gostoso	8810
+RN	São Paulo do Potengi	14483
+RN	São Pedro	6433
+RN	São Rafael	8116
+RN	São Tomé	11115
+RN	São Vicente	5819
+RN	Senador Elói de Souza	5906
+RN	Senador Georgino Avelino	3690
+RN	Serra de São Bento	5801
+RN	Serra do Mel	9216
+RN	Serra Negra do Norte	7241
+RN	Serrinha	6740
+RN	Serrinha dos Pintos	4360
+RN	Severiano Melo	5671
+RN	Sítio Novo	5212
+RN	Taboleiro Grande	2278
+RN	Taipu	11768
+RN	Tangará	13081
+RN	Tenente Ananias	9311
+RN	Tenente Laurentino Cruz	5120
+RN	Tibau	3750
+RN	Tibau do Sul	10959
+RN	Timbaúba dos Batistas	2295
+RN	Touros	29436
+RN	Triunfo Potiguar	3272
+RN	Umarizal	10640
+RN	Upanema	12719
+RN	Várzea	5276
+RN	Venha-Ver	3494
+RN	Vera Cruz	10313
+RN	Viçosa	1769
+RN	Vila Flor	2647
+PB	Água Branca	9224
+PB	Aguiar	5629
+PB	Alagoa Grande	27448
+PB	Alagoa Nova	19163
+PB	Alagoinha	13025
+PB	Alcantil	5068
+PB	Algodão de Jandaíra	2342
+PB	Alhandra	18183
+PB	Amparo	2007
+PB	Aparecida	7323
+PB	Araçagi	17376
+PB	Arara	12356
+PB	Araruna	19191
+PB	Areia	24992
+PB	Areia de Baraúnas	2096
+PB	Areial	6234
+PB	Aroeiras	19174
+PB	Assunção	3336
+PB	Baía da Traição	7630
+PB	Bananeiras	21670
+PB	Baraúna	3864
+PB	Barra de Santa Rosa	12848
+PB	Barra de Santana	8619
+PB	Barra de São Miguel	5435
+PB	Bayeux	92891
+PB	Belém	17173
+PB	Belém do Brejo do Cruz	7040
+PB	Bernardino Batista	3164
+PB	Boa Ventura	5800
+PB	Boa Vista	5673
+PB	Bom Jesus	2233
+PB	Bom Sucesso	5152
+PB	Bonito de Santa Fé	10253
+PB	Boqueirão	15877
+PB	Borborema	5009
+PB	Brejo do Cruz	12424
+PB	Brejo dos Santos	5743
+PB	Caaporã	19388
+PB	Cabaceiras	4907
+PB	Cabedelo	49728
+PB	Cachoeira dos Índios	8388
+PB	Cacimba de Areia	3485
+PB	Cacimba de Dentro	17108
+PB	Cacimbas	6787
+PB	Caiçara	7314
+PB	Cajazeiras	56051
+PB	Cajazeirinhas	3057
+PB	Caldas Brandão	5363
+PB	Camalaú	5761
+PB	Campina Grande	371060
+PB	Campo de Santana	9549
+PB	Capim	5207
+PB	Caraúbas	3824
+PB	Carrapateira	2389
+PB	Casserengue	6762
+PB	Catingueira	4849
+PB	Catolé do Rocha	27548
+PB	Caturité	4467
+PB	Conceição	17496
+PB	Condado	6702
+PB	Conde	19925
+PB	Congo	4770
+PB	Coremas	15236
+PB	Coxixola	1705
+PB	Cruz do Espírito Santo	15281
+PB	Cubati	6356
+PB	Cuité	20197
+PB	Cuité de Mamanguape	6505
+PB	Cuitegi	7047
+PB	Curral de Cima	5469
+PB	Curral Velho	2781
+PB	Damião	4807
+PB	Desterro	7929
+PB	Diamante	6582
+PB	Dona Inês	10832
+PB	Duas Estradas	3748
+PB	Emas	3257
+PB	Esperança	29801
+PB	Fagundes	11830
+PB	Frei Martinho	2935
+PB	Gado Bravo	8236
+PB	Guarabira	54200
+PB	Gurinhém	13209
+PB	Gurjão	2985
+PB	Ibiara	6139
+PB	Igaracy	6334
+PB	Imaculada	11451
+PB	Ingá	18168
+PB	Itabaiana	24752
+PB	Itaporanga	22425
+PB	Itapororoca	15966
+PB	Itatuba	9841
+PB	Jacaraú	13708
+PB	Jericó	7825
+PB	João Pessoa	674762
+PB	Juarez Távora	7618
+PB	Juazeirinho	15899
+PB	Junco do Seridó	6486
+PB	Juripiranga	10240
+PB	Juru	10222
+PB	Lagoa	4807
+PB	Lagoa de Dentro	7258
+PB	Lagoa Seca	24937
+PB	Lastro	2834
+PB	Livramento	7105
+PB	Logradouro	3816
+PB	Lucena	10943
+PB	Mãe d'Água	4017
+PB	Malta	5634
+PB	Mamanguape	40283
+PB	Manaíra	10986
+PB	Marcação	7287
+PB	Mari	20526
+PB	Marizópolis	6214
+PB	Massaranduba	12494
+PB	Mataraca	6984
+PB	Matinhas	4178
+PB	Mato Grosso	2601
+PB	Maturéia	5785
+PB	Mogeiro	12305
+PB	Montadas	4558
+PB	Monte Horebe	4345
+PB	Monteiro	29980
+PB	Mulungu	9317
+PB	Natuba	10216
+PB	Nazarezinho	6933
+PB	Nova Floresta	10032
+PB	Nova Olinda	6280
+PB	Nova Palmeira	3934
+PB	Olho d'Água	7450
+PB	Olivedos	3489
+PB	Ouro Velho	2974
+PB	Parari	1245
+PB	Passagem	2124
+PB	Patos	97276
+PB	Paulista	11619
+PB	Pedra Branca	3745
+PB	Pedra Lavrada	6810
+PB	Pedras de Fogo	26279
+PB	Pedro Régis	5588
+PB	Piancó	15881
+PB	Picuí	18716
+PB	Pilar	11301
+PB	Pilões	6936
+PB	Pilõezinhos	5319
+PB	Pirpirituba	10232
+PB	Pitimbu	16140
+PB	Pocinhos	15956
+PB	Poço Dantas	3919
+PB	Poço de José de Moura	3959
+PB	Pombal	31524
+PB	Prata	3896
+PB	Princesa Isabel	19330
+PB	Puxinanã	12881
+PB	Queimadas	38883
+PB	Quixabá	1433
+PB	Remígio	16748
+PB	Riachão	3405
+PB	Riachão do Bacamarte	4172
+PB	Riachão do Poço	4239
+PB	Riacho de Santo Antônio	1524
+PB	Riacho dos Cavalos	8057
+PB	Rio Tinto	23023
+PB	Salgadinho	3367
+PB	Salgado de São Félix	12526
+PB	Santa Cecília	7016
+PB	Santa Cruz	6480
+PB	Santa Helena	6028
+PB	Santa Inês	3707
+PB	Santa Luzia	14292
+PB	Santa Rita	122454
+PB	Santa Teresinha	4644
+PB	Santana de Mangueira	5609
+PB	Santana dos Garrotes	7610
+PB	Santarém	2660
+PB	Santo André	2641
+PB	São Bentinho	4049
+PB	São Bento	29196
+PB	São Domingos de Pombal	2719
+PB	São Domingos do Cariri	2265
+PB	São Francisco	3442
+PB	São João do Cariri	4438
+PB	São João do Rio do Peixe	17773
+PB	São João do Tigre	4578
+PB	São José da Lagoa Tapada	7810
+PB	São José de Caiana	5942
+PB	São José de Espinharas	4913
+PB	São José de Piranhas	18898
+PB	São José de Princesa	4644
+PB	São José do Bonfim	3180
+PB	São José do Brejo do Cruz	1647
+PB	São José do Sabugi	3986
+PB	São José dos Cordeiros	3973
+PB	São José dos Ramos	5482
+PB	São Mamede	7782
+PB	São Miguel de Taipu	6568
+PB	São Sebastião de Lagoa de Roça	10908
+PB	São Sebastião do Umbuzeiro	3061
+PB	Sapé	46363
+PB	Seridó	9737
+PB	Serra Branca	12413
+PB	Serra da Raiz	3130
+PB	Serra Grande	3038
+PB	Serra Redonda	7651
+PB	Serraria	6602
+PB	Sertãozinho	4213
+PB	Sobrado	7340
+PB	Solânea	27346
+PB	Soledade	13128
+PB	Sossêgo	2965
+PB	Sousa	63783
+PB	Sumé	16456
+PB	Taperoá	14715
+PB	Tavares	14021
+PB	Teixeira	13685
+PB	Tenório	2806
+PB	Triunfo	9624
+PB	Uiraúna	14454
+PB	Umbuzeiro	9173
+PB	Várzea	2457
+PB	Vieirópolis	4756
+PB	Vista Serrana	3253
+PB	Zabelê	2024
+PE	Abreu e Lima	92217
+PE	Afogados da Ingazeira	34047
+PE	Afrânio	16471
+PE	Agrestina	21456
+PE	Água Preta	29508
+PE	Águas Belas	37992
+PE	Alagoinha	14016
+PE	Aliança	34740
+PE	Altinho	21782
+PE	Amaraji	20149
+PE	Angelim	9836
+PE	Araçoiaba	16520
+PE	Araripina	75878
+PE	Arcoverde	64863
+PE	Barra de Guabiraba	13900
+PE	Barreiros	41748
+PE	Belém de Maria	9649
+PE	Belém de São Francisco	20545
+PE	Belo Jardim	70963
+PE	Betânia	11548
+PE	Bezerros	56629
+PE	Bodocó	33381
+PE	Bom Conselho	43397
+PE	Bom Jardim	39023
+PE	Bonito	39111
+PE	Brejão	9341
+PE	Brejinho	7158
+PE	Brejo da Madre de Deus	40265
+PE	Buenos Aires	12962
+PE	Buíque	49937
+PE	Cabo de Santo Agostinho	163139
+PE	Cabrobó	28851
+PE	Cachoeirinha	17421
+PE	Caetés	25219
+PE	Calçado	11337
+PE	Calumbi	7577
+PE	Camaragibe	136381
+PE	Camocim de São Félix	15831
+PE	Camutanga	7921
+PE	Canhotinho	24218
+PE	Capoeiras	19337
+PE	Carnaíba	18345
+PE	Carnaubeira da Penha	11689
+PE	Carpina	65390
+PE	Caruaru	289086
+PE	Casinhas	14103
+PE	Catende	33479
+PE	Cedro	10283
+PE	Chã de Alegria	11636
+PE	Chã Grande	17563
+PE	Condado	23211
+PE	Correntes	16330
+PE	Cortês	11616
+PE	Cumaru	16388
+PE	Cupira	22106
+PE	Custódia	32157
+PE	Dormentes	15595
+PE	Escada	59850
+PE	Exu	30567
+PE	Feira Nova	19276
+PE	Fernando de Noronha	2801
+PE	Ferreiros	11002
+PE	Flores	21962
+PE	Floresta	26648
+PE	Frei Miguelinho	14067
+PE	Gameleira	26281
+PE	Garanhuns	124996
+PE	Glória do Goitá	27397
+PE	Goiana	71796
+PE	Granito	6593
+PE	Gravatá	71570
+PE	Iati	17733
+PE	Ibimirim	27261
+PE	Ibirajuba	7545
+PE	Igarassu	93748
+PE	Iguaraci	11880
+PE	Ilha de Itamaracá	17573
+PE	Inajá	14036
+PE	Ingazeira	4444
+PE	Ipojuca	70070
+PE	Ipubi	25718
+PE	Itacuruba	4097
+PE	Itaíba	26735
+PE	Itambé	34944
+PE	Itapetim	13849
+PE	Itapissuma	22852
+PE	Itaquitinga	14985
+PE	Jaboatão dos Guararapes	665387
+PE	Jaqueira	12102
+PE	Jataúba	14813
+PE	Jatobá	13797
+PE	João Alfredo	28488
+PE	Joaquim Nabuco	15947
+PE	Jucati	10500
+PE	Jupi	13628
+PE	Jurema	14760
+PE	Lagoa do Carro	14380
+PE	Lagoa do Itaenga	19987
+PE	Lagoa do Ouro	11655
+PE	Lagoa dos Gatos	15967
+PE	Lagoa Grande	21125
+PE	Lajedo	33348
+PE	Limoeiro	55560
+PE	Macaparana	23078
+PE	Machados	11152
+PE	Manari	16540
+PE	Maraial	12352
+PE	Mirandiba	13304
+PE	Moreilândia	10424
+PE	Moreno	52830
+PE	Nazaré da Mata	29202
+PE	Olinda	391433
+PE	Orobó	21632
+PE	Orocó	13167
+PE	Ouricuri	63042
+PE	Palmares	56643
+PE	Palmeirina	8487
+PE	Panelas	24918
+PE	Paranatama	11669
+PE	Parnamirim	19214
+PE	Passira	27910
+PE	Paudalho	45777
+PE	Paulista	307284
+PE	Pedra	20132
+PE	Pesqueira	61337
+PE	Petrolândia	30597
+PE	Petrolina	268339
+PE	Poção	11135
+PE	Pombos	21810
+PE	Primavera	11853
+PE	Quipapá	24197
+PE	Quixaba	6875
+PE	Recife	1533580
+PE	Riacho das Almas	18269
+PE	Ribeirão	38755
+PE	Rio Formoso	21024
+PE	Sairé	13709
+PE	Salgadinho	7770
+PE	Salgueiro	53167
+PE	Saloá	15027
+PE	Sanharó	17627
+PE	Santa Cruz	13644
+PE	Santa Cruz da Baixa Verde	11610
+PE	Santa Cruz do Capibaribe	73680
+PE	Santa Filomena	13759
+PE	Santa Maria da Boa Vista	39626
+PE	Santa Maria do Cambucá	12348
+PE	Santa Terezinha	9934
+PE	São Benedito do Sul	9790
+PE	São Bento do Una	47230
+PE	São Caitano	34769
+PE	São João	21011
+PE	São Joaquim do Monte	20869
+PE	São José da Coroa Grande	17090
+PE	São José do Belmonte	32704
+PE	São José do Egito	30469
+PE	São Lourenço da Mata	95304
+PE	São Vicente Ferrer	16598
+PE	Serra Talhada	76198
+PE	Serrita	18228
+PE	Sertânia	34069
+PE	Sirinhaém	36414
+PE	Solidão	5837
+PE	Surubim	53934
+PE	Tabira	25836
+PE	Tacaimbó	12095
+PE	Tacaratu	20552
+PE	Tamandaré	18137
+PE	Taquaritinga do Norte	21447
+PE	Terezinha	6496
+PE	Terra Nova	9057
+PE	Timbaúba	51529
+PE	Toritama	29900
+PE	Tracunhaém	12734
+PE	Trindade	24642
+PE	Triunfo	15225
+PE	Tupanatinga	18913
+PE	Tuparetama	8257
+PE	Venturosa	15576
+PE	Verdejante	9567
+PE	Vertente do Lério	7500
+PE	Vertentes	17021
+PE	Vicência	27360
+PE	Vitória de Santo Antão	121233
+PE	Xexéu	14224
+AL	Água Branca	19316
+AL	Anadia	17274
+AL	Arapiraca	202398
+AL	Atalaia	50323
+AL	Barra de Santo Antônio	13731
+AL	Barra de São Miguel	7247
+AL	Batalha	16247
+AL	Belém	5031
+AL	Belo Monte	7238
+AL	Boca da Mata	25145
+AL	Branquinha	11796
+AL	Cacimbinhas	9843
+AL	Cajueiro	20076
+AL	Campestre	6016
+AL	Campo Alegre	45307
+AL	Campo Grande	9563
+AL	Canapi	17793
+AL	Capela	17034
+AL	Carneiros	8044
+AL	Chã Preta	6953
+AL	Coité do Nóia	10916
+AL	Colônia Leopoldina	19363
+AL	Coqueiro Seco	5336
+AL	Coruripe	51027
+AL	Craíbas	22411
+AL	Delmiro Gouveia	46599
+AL	Dois Riachos	10885
+AL	Estrela de Alagoas	16694
+AL	Feira Grande	21180
+AL	Feliz Deserto	4370
+AL	Flexeiras	11928
+AL	Girau do Ponciano	35162
+AL	Ibateguara	15359
+AL	Igaci	25140
+AL	Igreja Nova	22925
+AL	Inhapi	17637
+AL	Jacaré dos Homens	5724
+AL	Jacuípe	6883
+AL	Japaratinga	7463
+AL	Jaramataia	5939
+AL	Jequiá da Praia	11430
+AL	Joaquim Gomes	21735
+AL	Jundiá	4569
+AL	Junqueiro	24460
+AL	Lagoa da Canoa	18017
+AL	Limoeiro de Anadia	25484
+AL	Maceió	896965
+AL	Major Isidoro	18811
+AL	Mar Vermelho	4014
+AL	Maragogi	25726
+AL	Maravilha	10203
+AL	Marechal Deodoro	45141
+AL	Maribondo	13865
+AL	Mata Grande	24599
+AL	Matriz de Camaragibe	24656
+AL	Messias	15072
+AL	Minador do Negrão	5160
+AL	Monteirópolis	7090
+AL	Murici	25964
+AL	Novo Lino	11903
+AL	Olho d'Água das Flores	19885
+AL	Olho d'Água do Casado	8139
+AL	Olho d'Água Grande	4817
+AL	Olivença	10522
+AL	Ouro Branco	11049
+AL	Palestina	4878
+AL	Palmeira dos Índios	70151
+AL	Pão de Açúcar	23855
+AL	Pariconha	10209
+AL	Paripueira	9725
+AL	Passo de Camaragibe	13826
+AL	Paulo Jacinto	7534
+AL	Penedo	59020
+AL	Piaçabuçu	17466
+AL	Pilar	31627
+AL	Pindoba	3126
+AL	Piranhas	23910
+AL	Poço das Trincheiras	12205
+AL	Porto Calvo	25129
+AL	Porto de Pedras	10321
+AL	Porto Real do Colégio	17947
+AL	Quebrangulo	11289
+AL	Rio Largo	65432
+AL	Roteiro	6692
+AL	Santa Luzia do Norte	7248
+AL	Santana do Ipanema	42296
+AL	Santana do Mundaú	11663
+AL	São Brás	6820
+AL	São José da Laje	22282
+AL	São José da Tapera	30129
+AL	São Luís do Quitunde	31647
+AL	São Miguel dos Campos	51473
+AL	São Miguel dos Milagres	7219
+AL	São Sebastião	31002
+AL	Satuba	14154
+AL	Senador Rui Palmeira	12641
+AL	Tanque d'Arca	5695
+AL	Taquarana	18157
+AL	Teotônio Vilela	40291
+AL	Traipu	24911
+AL	União dos Palmares	60619
+AL	Viçosa	26050
+SE	Amparo de São Francisco	2197
+SE	Aquidabã	19185
+SE	Aracaju	520303
+SE	Arauá	11633
+SE	Areia Branca	16072
+SE	Barra dos Coqueiros	19218
+SE	Boquim	24472
+SE	Brejo Grande	7760
+SE	Campo do Brito	16122
+SE	Canhoba	3910
+SE	Canindé de São Francisco	21806
+SE	Capela	27913
+SE	Carira	18965
+SE	Carmópolis	11911
+SE	Cedro de São João	5358
+SE	Cristinápolis	15867
+SE	Cumbe	3741
+SE	Divina Pastora	4198
+SE	Estância	61368
+SE	Feira Nova	5628
+SE	Frei Paulo	12589
+SE	Gararu	11606
+SE	General Maynard	2773
+SE	Gracho Cardoso	5554
+SE	Ilha das Flores	8598
+SE	Indiaroba	17089
+SE	Itabaiana	83161
+SE	Itabaianinha	37431
+SE	Itabi	4736
+SE	Itaporanga d'Ajuda	28131
+SE	Japaratuba	15450
+SE	Japoatã	13539
+SE	Lagarto	88980
+SE	Laranjeiras	23923
+SE	Macambira	6295
+SE	Malhada dos Bois	3658
+SE	Malhador	11728
+SE	Maruim	15150
+SE	Moita Bonita	10910
+SE	Monte Alegre de Sergipe	13199
+SE	Muribeca	7225
+SE	Neópolis	18909
+SE	Nossa Senhora Aparecida	8517
+SE	Nossa Senhora da Glória	29546
+SE	Nossa Senhora das Dores	23800
+SE	Nossa Senhora de Lourdes	6280
+SE	Nossa Senhora do Socorro	148546
+SE	Pacatuba	12377
+SE	Pedra Mole	2774
+SE	Pedrinhas	8389
+SE	Pinhão	5590
+SE	Pirambu	8227
+SE	Poço Redondo	28969
+SE	Poço Verde	21083
+SE	Porto da Folha	26520
+SE	Propriá	27629
+SE	Riachão do Dantas	19019
+SE	Riachuelo	9087
+SE	Ribeirópolis	15676
+SE	Rosário do Catete	8518
+SE	Salgado	18563
+SE	Santa Luzia do Itanhy	13041
+SE	Santa Rosa de Lima	3844
+SE	Santana do São Francisco	6596
+SE	Santo Amaro das Brotas	11652
+SE	São Cristóvão	71931
+SE	São Domingos	10128
+SE	São Francisco	2874
+SE	São Miguel do Aleixo	3670
+SE	Simão Dias	37145
+SE	Siriri	7618
+SE	Telha	2852
+SE	Tobias Barreto	47265
+SE	Tomar do Geru	12877
+SE	Umbaúba	20562
+BA	Abaíra	8638
+BA	Abaré	17342
+BA	Acajutiba	14628
+BA	Adustina	14824
+BA	Água Fria	14814
+BA	Aiquara	5212
+BA	Alagoinhas	132725
+BA	Alcobaça	19840
+BA	Almadina	6687
+BA	Amargosa	33554
+BA	Amélia Rodrigues	22096
+BA	América Dourada	16189
+BA	Anagé	25716
+BA	Andaraí	14088
+BA	Andorinha	14132
+BA	Angical	14700
+BA	Anguera	9523
+BA	Antas	16446
+BA	Antônio Cardoso	12074
+BA	Antônio Gonçalves	10653
+BA	Aporá	17870
+BA	Apuarema	7379
+BA	Araças	11662
+BA	Aracatu	14168
+BA	Araci	51912
+BA	Aramari	9527
+BA	Arataca	10717
+BA	Aratuípe	8507
+BA	Aurelino Leal	14458
+BA	Baianópolis	13437
+BA	Baixa Grande	20980
+BA	Banzaê	10865
+BA	Barra	47755
+BA	Barra da Estiva	20750
+BA	Barra do Choça	32489
+BA	Barra do Mendes	14054
+BA	Barra do Rocha	6133
+BA	Barreiras	129501
+BA	Barro Alto	13403
+BA	Barro Preto	6669
+BA	Barrocas	13182
+BA	Belmonte	21479
+BA	Belo Campo	15262
+BA	Biritinga	13961
+BA	Boa Nova	16007
+BA	Boa Vista do Tupim	17841
+BA	Bom Jesus da Lapa	62199
+BA	Bom Jesus da Serra	10295
+BA	Boninal	13227
+BA	Bonito	13678
+BA	Boquira	21863
+BA	Botuporã	11026
+BA	Brejões	12677
+BA	Brejolândia	9337
+BA	Brotas de Macaúbas	10922
+BA	Brumado	62381
+BA	Buerarema	19956
+BA	Buritirama	18656
+BA	Caatiba	10367
+BA	Cabaceiras do Paraguaçu	17502
+BA	Cachoeira	32252
+BA	Caculé	21847
+BA	Caém	10377
+BA	Caetanos	12133
+BA	Caetité	46192
+BA	Cafarnaum	17402
+BA	Cairu	13712
+BA	Caldeirão Grande	13072
+BA	Camacan	30289
+BA	Camaçari	220495
+BA	Camamu	32172
+BA	Campo Alegre de Lourdes	26935
+BA	Campo Formoso	65137
+BA	Canápolis	10577
+BA	Canarana	24436
+BA	Canavieiras	35743
+BA	Candeal	9019
+BA	Candeias	78618
+BA	Candiba	12352
+BA	Cândido Sales	26727
+BA	Cansanção	32789
+BA	Canudos	14656
+BA	Capela do Alto Alegre	12311
+BA	Capim Grosso	25823
+BA	Caraíbas	10541
+BA	Caravelas	21150
+BA	Cardeal da Silva	8280
+BA	Carinhanha	28879
+BA	Casa Nova	62862
+BA	Castro Alves	24437
+BA	Catolândia	3767
+BA	Catu	48697
+BA	Caturama	8545
+BA	Central	17320
+BA	Chorrochó	10571
+BA	Cícero Dantas	30827
+BA	Cipó	15063
+BA	Coaraci	22764
+BA	Cocos	17394
+BA	Conceição da Feira	19091
+BA	Conceição do Almeida	17684
+BA	Conceição do Coité	60835
+BA	Conceição do Jacuípe	27522
+BA	Conde	22034
+BA	Condeúba	17004
+BA	Contendas do Sincorá	3857
+BA	Coração de Maria	23161
+BA	Cordeiros	8518
+BA	Coribe	14555
+BA	Coronel João Sá	18168
+BA	Correntina	31658
+BA	Cotegipe	13663
+BA	Cravolândia	5429
+BA	Crisópolis	19510
+BA	Cristópolis	13595
+BA	Cruz das Almas	54827
+BA	Curaçá	32449
+BA	Dário Meira	12565
+BA	Dias d'Ávila	53821
+BA	Dom Basílio	11087
+BA	Dom Macedo Costa	3809
+BA	Elísio Medrado	7907
+BA	Encruzilhada	22525
+BA	Entre Rios	38886
+BA	Érico Cardoso	10609
+BA	Esplanada	31118
+BA	Euclides da Cunha	56625
+BA	Eunápolis	93984
+BA	Fátima	18918
+BA	Feira da Mata	6328
+BA	Feira de Santana	571997
+BA	Filadélfia	15979
+BA	Firmino Alves	5577
+BA	Floresta Azul	10333
+BA	Formosa do Rio Preto	20845
+BA	Gandu	30091
+BA	Gavião	4444
+BA	Gentio do Ouro	11326
+BA	Glória	13879
+BA	Gongogi	6845
+BA	Governador Mangabeira	19828
+BA	Guajeru	7062
+BA	Guanambi	76230
+BA	Guaratinga	22621
+BA	Heliópolis	14020
+BA	Iaçu	27835
+BA	Ibiassucê	9507
+BA	Ibicaraí	24752
+BA	Ibicoara	15856
+BA	Ibicuí	15777
+BA	Ibipeba	16762
+BA	Ibipitanga	13841
+BA	Ibiquera	5007
+BA	Ibirapitanga	23197
+BA	Ibirapuã	7534
+BA	Ibirataia	23940
+BA	Ibitiara	15802
+BA	Ibititá	18614
+BA	Ibotirama	25292
+BA	Ichu	5881
+BA	Igaporã	14499
+BA	Igrapiúna	13246
+BA	Iguaí	27849
+BA	Ilhéus	220144
+BA	Inhambupe	34388
+BA	Ipecaetá	16055
+BA	Ipiaú	42561
+BA	Ipirá	60043
+BA	Ipupiara	8931
+BA	Irajuba	7215
+BA	Iramaia	15134
+BA	Iraquara	22607
+BA	Irará	25012
+BA	Irecê	62676
+BA	Itabela	25821
+BA	Itaberaba	59393
+BA	Itabuna	210604
+BA	Itacaré	24720
+BA	Itaeté	14154
+BA	Itagi	13882
+BA	Itagibá	16272
+BA	Itagimirim	7049
+BA	Itaguaçu da Bahia	12545
+BA	Itaju do Colônia	7673
+BA	Itajuípe	20343
+BA	Itamaraju	65327
+BA	Itamari	8468
+BA	Itambé	33687
+BA	Itanagra	6605
+BA	Itanhém	20636
+BA	Itaparica	19897
+BA	Itapé	11123
+BA	Itapebi	11520
+BA	Itapetinga	63243
+BA	Itapicuru	30703
+BA	Itapitanga	10106
+BA	Itaquara	7564
+BA	Itarantim	17615
+BA	Itatim	14569
+BA	Itiruçu	15764
+BA	Itiúba	35749
+BA	Itororó	20165
+BA	Ituaçu	17939
+BA	Ituberá	23530
+BA	Iuiú	11469
+BA	Jaborandi	8931
+BA	Jacaraci	14346
+BA	Jacobina	76463
+BA	Jaguaquara	46641
+BA	Jaguarari	29097
+BA	Jaguaripe	16207
+BA	Jandaíra	9758
+BA	Jequié	145964
+BA	Jeremoabo	37431
+BA	Jiquiriçá	13386
+BA	Jitaúna	16839
+BA	João Dourado	20834
+BA	Juazeiro	230538
+BA	Jucuruçu	10599
+BA	Jussara	14833
+BA	Jussari	6857
+BA	Jussiape	8465
+BA	Lafaiete Coutinho	3526
+BA	Lagoa Real	13795
+BA	Laje	21104
+BA	Lajedão	3469
+BA	Lajedinho	4329
+BA	Lajedo do Tabocal	8591
+BA	Lamarão	11988
+BA	Lapão	25557
+BA	Lauro de Freitas	144492
+BA	Lençóis	9617
+BA	Licínio de Almeida	12695
+BA	Livramento de Nossa Senhora	42146
+BA	Luís Eduardo Magalhães	44265
+BA	Macajuba	11207
+BA	Macarani	16046
+BA	Macaúbas	45958
+BA	Macururé	7779
+BA	Madre de Deus	15432
+BA	Maetinga	8793
+BA	Maiquinique	8324
+BA	Mairi	19259
+BA	Malhada	16085
+BA	Malhada de Pedras	7620
+BA	Manoel Vitorino	14262
+BA	Mansidão	11694
+BA	Maracás	34221
+BA	Maragogipe	42079
+BA	Maraú	17029
+BA	Marcionílio Souza	10716
+BA	Mascote	16061
+BA	Mata de São João	37201
+BA	Matina	12322
+BA	Medeiros Neto	21866
+BA	Miguel Calmon	27213
+BA	Milagres	11771
+BA	Mirangaba	17474
+BA	Mirante	9174
+BA	Monte Santo	52252
+BA	Morpará	8586
+BA	Morro do Chapéu	34012
+BA	Mortugaba	13905
+BA	Mucugê	14131
+BA	Mucuri	33143
+BA	Mulungu do Morro	13755
+BA	Mundo Novo	23822
+BA	Muniz Ferreira	6990
+BA	Muquém de São Francisco	10096
+BA	Muritiba	27212
+BA	Mutuípe	21181
+BA	Nazaré	26506
+BA	Nilo Peçanha	12531
+BA	Nordestina	12172
+BA	Nova Canaã	18829
+BA	Nova Fátima	7674
+BA	Nova Ibiá	6871
+BA	Nova Itarana	7423
+BA	Nova Redenção	8943
+BA	Nova Soure	25697
+BA	Nova Viçosa	34623
+BA	Novo Horizonte	10304
+BA	Novo Triunfo	14153
+BA	Olindina	23791
+BA	Oliveira dos Brejinhos	22609
+BA	Ouriçangas	7802
+BA	Ourolândia	16302
+BA	Palmas de Monte Alto	21107
+BA	Palmeiras	8040
+BA	Paramirim	20055
+BA	Paratinga	28671
+BA	Paripiranga	28347
+BA	Pau Brasil	12155
+BA	Paulo Afonso	101952
+BA	Pé de Serra	14160
+BA	Pedrão	7238
+BA	Pedro Alexandre	17092
+BA	Piatã	18085
+BA	Pilão Arcado	32844
+BA	Pindaí	15306
+BA	Pindobaçu	20312
+BA	Pintadas	10551
+BA	Piraí do Norte	8897
+BA	Piripá	13515
+BA	Piritiba	24189
+BA	Planaltino	8472
+BA	Planalto	21486
+BA	Poções	44759
+BA	Pojuca	30221
+BA	Ponto Novo	14820
+BA	Porto Seguro	114459
+BA	Potiraguá	10350
+BA	Prado	25429
+BA	Presidente Dutra	13822
+BA	Presidente Jânio Quadros	14803
+BA	Presidente Tancredo Neves	22684
+BA	Queimadas	27186
+BA	Quijingue	27068
+BA	Quixabeira	9348
+BA	Rafael Jambeiro	23107
+BA	Remanso	38004
+BA	Retirolândia	11938
+BA	Riachão das Neves	22528
+BA	Riachão do Jacuípe	32522
+BA	Riacho de Santana	29425
+BA	Ribeira do Amparo	14101
+BA	Ribeira do Pombal	47400
+BA	Ribeirão do Largo	14297
+BA	Rio de Contas	13447
+BA	Rio do Antônio	15096
+BA	Rio do Pires	11385
+BA	Rio Real	36169
+BA	Rodelas	7023
+BA	Ruy Barbosa	29358
+BA	Salinas da Margarida	13090
+BA	Salvador	2892625
+BA	Santa Bárbara	19440
+BA	Santa Brígida	15483
+BA	Santa Cruz Cabrália	25110
+BA	Santa Cruz da Vitória	6386
+BA	Santa Inês	10564
+BA	Santa Luzia	15184
+BA	Santa Maria da Vitória	40571
+BA	Santa Rita de Cássia	26135
+BA	Santa Teresinha	9914
+BA	Santaluz	33633
+BA	Santana	25947
+BA	Santanópolis	9199
+BA	Santo Amaro	58028
+BA	Santo Antônio de Jesus	84256
+BA	Santo Estêvão	44532
+BA	São Desidério	25158
+BA	São Domingos	8818
+BA	São Felipe	20265
+BA	São Félix	15302
+BA	São Félix do Coribe	12815
+BA	São Francisco do Conde	29829
+BA	São Gabriel	18468
+BA	São Gonçalo dos Campos	29205
+BA	São José da Vitória	6095
+BA	São José do Jacuípe	10477
+BA	São Miguel das Matas	10270
+BA	São Sebastião do Passé	40321
+BA	Sapeaçu	16518
+BA	Sátiro Dias	18104
+BA	Saubara	11051
+BA	Saúde	11866
+BA	Seabra	40543
+BA	Sebastião Laranjeiras	10712
+BA	Senhor do Bonfim	72511
+BA	Sento Sé	36517
+BA	Serra do Ramalho	31130
+BA	Serra Dourada	17422
+BA	Serra Preta	15149
+BA	Serrinha	71383
+BA	Serrolândia	12120
+BA	Simões Filho	109269
+BA	Sítio do Mato	12567
+BA	Sítio do Quinto	14069
+BA	Sobradinho	21315
+BA	Souto Soares	18013
+BA	Tabocas do Brejo Velho	12281
+BA	Tanhaçu	19591
+BA	Tanque Novo	15745
+BA	Tanquinho	7589
+BA	Taperoá	18217
+BA	Tapiramutá	17254
+BA	Teixeira de Freitas	118702
+BA	Teodoro Sampaio	8306
+BA	Teofilândia	20702
+BA	Teolândia	12429
+BA	Terra Nova	12310
+BA	Tremedal	18483
+BA	Tucano	48740
+BA	Uauá	24662
+BA	Ubaíra	20708
+BA	Ubaitaba	20478
+BA	Ubatã	24791
+BA	Uibaí	13719
+BA	Umburanas	16081
+BA	Una	25277
+BA	Urandi	15822
+BA	Uruçuca	22070
+BA	Utinga	19229
+BA	Valença	84931
+BA	Valente	21512
+BA	Várzea da Roça	14479
+BA	Várzea do Poço	8569
+BA	Várzea Nova	13949
+BA	Varzedo	9054
+BA	Vera Cruz	35060
+BA	Vereda	7174
+BA	Vitória da Conquista	308204
+BA	Wagner	8610
+BA	Wanderley	12982
+BA	Wenceslau Guimarães	23985
+BA	Xique-Xique	45700
+MG	Abadia dos Dourados	6556
+MG	Abaeté	22474
+MG	Abre Campo	12867
+MG	Acaiaca	4056
+MG	Açucena	11127
+MG	Água Boa	16435
+MG	Água Comprida	2093
+MG	Aguanil	4054
+MG	Águas Formosas	18518
+MG	Águas Vermelhas	12674
+MG	Aimorés	24232
+MG	Aiuruoca	6099
+MG	Alagoa	2825
+MG	Albertina	2872
+MG	Além Paraíba	33495
+MG	Alfenas	71628
+MG	Alfredo Vasconcelos	5900
+MG	Almenara	36907
+MG	Alpercata	7007
+MG	Alpinópolis	17821
+MG	Alterosa	13286
+MG	Alto Caparaó	5048
+MG	Alto Jequitibá	7976
+MG	Alto Rio Doce	12657
+MG	Alvarenga	4558
+MG	Alvinópolis	15251
+MG	Alvorada de Minas	3482
+MG	Amparo do Serra	5245
+MG	Andradas	34956
+MG	Andrelândia	12035
+MG	Angelândia	8130
+MG	Antônio Carlos	11172
+MG	Antônio Dias	9435
+MG	Antônio Prado de Minas	1962
+MG	Araçaí	2384
+MG	Aracitaba	1875
+MG	Araçuaí	36083
+MG	Araguari	106403
+MG	Arantina	2544
+MG	Araponga	8029
+MG	Araporã	6113
+MG	Arapuá	2699
+MG	Araújos	7201
+MG	Araxá	87764
+MG	Arceburgo	7994
+MG	Arcos	34763
+MG	Areado	13181
+MG	Argirita	2995
+MG	Aricanduva	4832
+MG	Arinos	17592
+MG	Astolfo Dutra	12510
+MG	Ataléia	15078
+MG	Augusto de Lima	4589
+MG	Baependi	18016
+MG	Baldim	8274
+MG	Bambuí	21850
+MG	Bandeira	5337
+MG	Bandeira do Sul	5106
+MG	Barão de Cocais	26421
+MG	Barão de Monte Alto	5656
+MG	Barbacena	122377
+MG	Barra Longa	6965
+MG	Barroso	19352
+MG	Bela Vista de Minas	9968
+MG	Belmiro Braga	3067
+MG	Belo Horizonte	2412937
+MG	Belo Oriente	21369
+MG	Belo Vale	7267
+MG	Berilo	13214
+MG	Berizal	4399
+MG	Bertópolis	4588
+MG	Betim	415098
+MG	Bias Fortes	3880
+MG	Bicas	13638
+MG	Biquinhas	2592
+MG	Boa Esperança	37801
+MG	Bocaina de Minas	5034
+MG	Bocaiúva	44657
+MG	Bom Despacho	42260
+MG	Bom Jardim de Minas	6481
+MG	Bom Jesus da Penha	3787
+MG	Bom Jesus do Amparo	5412
+MG	Bom Jesus do Galho	15198
+MG	Bom Repouso	10482
+MG	Bom Sucesso	17194
+MG	Bonfim	6715
+MG	Bonfinópolis de Minas	5828
+MG	Bonito de Minas	8787
+MG	Borda da Mata	14892
+MG	Botelhos	14853
+MG	Botumirim	6435
+MG	Brás Pires	4592
+MG	Brasilândia de Minas	12821
+MG	Brasília de Minas	31165
+MG	Brasópolis	14452
+MG	Braúnas	5208
+MG	Brumadinho	31965
+MG	Bueno Brandão	10864
+MG	Buenópolis	9522
+MG	Bugre	3960
+MG	Buritis	21472
+MG	Buritizeiro	26133
+MG	Cabeceira Grande	6294
+MG	Cabo Verde	13614
+MG	Cachoeira da Prata	3802
+MG	Cachoeira de Minas	10820
+MG	Cachoeira de Pajeú	9089
+MG	Cachoeira Dourada	2470
+MG	Caetanópolis	9490
+MG	Caeté	39039
+MG	Caiana	4537
+MG	Cajuri	4015
+MG	Caldas	13901
+MG	Camacho	3204
+MG	Camanducaia	19708
+MG	Cambuí	25010
+MG	Cambuquira	12520
+MG	Campanário	3592
+MG	Campanha	15169
+MG	Campestre	20251
+MG	Campina Verde	18680
+MG	Campo Azul	3828
+MG	Campo Belo	51375
+MG	Campo do Meio	11476
+MG	Campo Florido	6570
+MG	Campos Altos	13184
+MG	Campos Gerais	26954
+MG	Cana Verde	5712
+MG	Canaã	4668
+MG	Canápolis	11313
+MG	Candeias	15499
+MG	Cantagalo	3967
+MG	Caparaó	4863
+MG	Capela Nova	4598
+MG	Capelinha	33061
+MG	Capetinga	7154
+MG	Capim Branco	8763
+MG	Capinópolis	15302
+MG	Capitão Andrade	4801
+MG	Capitão Enéas	14106
+MG	Capitólio	7634
+MG	Caputira	8855
+MG	Caraí	21530
+MG	Caranaíba	3445
+MG	Carandaí	22240
+MG	Carangola	32068
+MG	Caratinga	81731
+MG	Carbonita	10145
+MG	Careaçu	6029
+MG	Carlos Chagas	20812
+MG	Carmésia	2550
+MG	Carmo da Cachoeira	11656
+MG	Carmo da Mata	10942
+MG	Carmo de Minas	13657
+MG	Carmo do Cajuru	18943
+MG	Carmo do Paranaíba	30712
+MG	Carmo do Rio Claro	19480
+MG	Carmópolis de Minas	15743
+MG	Carneirinho	8859
+MG	Carrancas	4015
+MG	Carvalhópolis	3234
+MG	Carvalhos	4611
+MG	Casa Grande	2100
+MG	Cascalho Rico	2799
+MG	Cássia	17067
+MG	Cataguases	67384
+MG	Catas Altas	4561
+MG	Catas Altas da Noruega	3424
+MG	Catuji	6597
+MG	Catuti	5303
+MG	Caxambu	21009
+MG	Cedro do Abaeté	1203
+MG	Central de Minas	6590
+MG	Centralina	10219
+MG	Chácara	2613
+MG	Chalé	5465
+MG	Chapada do Norte	15449
+MG	Chapada Gaúcha	10266
+MG	Chiador	2893
+MG	Cipotânea	6539
+MG	Claraval	4295
+MG	Claro dos Poções	8131
+MG	Cláudio	24590
+MG	Coimbra	6886
+MG	Coluna	9281
+MG	Comendador Gomes	3087
+MG	Comercinho	8720
+MG	Conceição da Aparecida	10215
+MG	Conceição da Barra de Minas	3960
+MG	Conceição das Alagoas	20426
+MG	Conceição das Pedras	2726
+MG	Conceição de Ipanema	4396
+MG	Conceição do Mato Dentro	18070
+MG	Conceição do Pará	4725
+MG	Conceição do Rio Verde	12708
+MG	Conceição dos Ouros	10204
+MG	Cônego Marinho	6279
+MG	Confins	5680
+MG	Congonhal	9692
+MG	Congonhas	45984
+MG	Congonhas do Norte	5110
+MG	Conquista	6580
+MG	Conselheiro Lafaiete	109280
+MG	Conselheiro Pena	21793
+MG	Consolação	1695
+MG	Contagem	608650
+MG	Coqueiral	9466
+MG	Coração de Jesus	26131
+MG	Cordisburgo	9033
+MG	Cordislândia	3570
+MG	Corinto	22741
+MG	Coroaci	10776
+MG	Coromandel	27392
+MG	Coronel Fabriciano	100805
+MG	Coronel Murta	9120
+MG	Coronel Pacheco	2457
+MG	Coronel Xavier Chaves	3194
+MG	Córrego Danta	3423
+MG	Córrego do Bom Jesus	3724
+MG	Córrego Fundo	5635
+MG	Córrego Novo	3155
+MG	Couto de Magalhães de Minas	4332
+MG	Crisólita	5659
+MG	Cristais	10631
+MG	Cristália	5731
+MG	Cristiano Otoni	4881
+MG	Cristina	10955
+MG	Crucilândia	4593
+MG	Cruzeiro da Fortaleza	3760
+MG	Cruzília	14656
+MG	Cuparaque	4404
+MG	Curral de Dentro	6907
+MG	Curvelo	71611
+MG	Datas	5418
+MG	Delfim Moreira	7834
+MG	Delfinópolis	6698
+MG	Delta	6600
+MG	Descoberto	4876
+MG	Desterro de Entre Rios	6914
+MG	Desterro do Melo	3198
+MG	Diamantina	44746
+MG	Diogo de Vasconcelos	3941
+MG	Dionísio	10234
+MG	Divinésia	3276
+MG	Divino	19245
+MG	Divino das Laranjeiras	4934
+MG	Divinolândia de Minas	6724
+MG	Divinópolis	209921
+MG	Divisa Alegre	5793
+MG	Divisa Nova	5619
+MG	Divisópolis	7852
+MG	Dom Bosco	3781
+MG	Dom Cavati	5593
+MG	Dom Joaquim	4530
+MG	Dom Silvério	5284
+MG	Dom Viçoso	3020
+MG	Dona Eusébia	5569
+MG	Dores de Campos	9276
+MG	Dores de Guanhães	5528
+MG	Dores do Indaiá	13996
+MG	Dores do Turvo	4572
+MG	Doresópolis	1492
+MG	Douradoquara	1846
+MG	Durandé	6932
+MG	Elói Mendes	24161
+MG	Engenheiro Caldas	10317
+MG	Engenheiro Navarro	7079
+MG	Entre Folhas	4931
+MG	Entre Rios de Minas	13887
+MG	Ervália	18002
+MG	Esmeraldas	55436
+MG	Espera Feliz	20835
+MG	Espinosa	31322
+MG	Espírito Santo do Dourado	4293
+MG	Estiva	10920
+MG	Estrela Dalva	2497
+MG	Estrela do Indaiá	3651
+MG	Estrela do Sul	7136
+MG	Eugenópolis	10291
+MG	Ewbank da Câmara	3567
+MG	Extrema	24886
+MG	Fama	2219
+MG	Faria Lemos	3612
+MG	Felício dos Santos	5685
+MG	Felisburgo	6687
+MG	Felixlândia	13618
+MG	Fernandes Tourinho	2612
+MG	Ferros	11387
+MG	Fervedouro	10261
+MG	Florestal	5928
+MG	Formiga	64585
+MG	Formoso	6612
+MG	Fortaleza de Minas	3837
+MG	Fortuna de Minas	2454
+MG	Francisco Badaró	10269
+MG	Francisco Dumont	4759
+MG	Francisco Sá	24838
+MG	Franciscópolis	5664
+MG	Frei Gaspar	6343
+MG	Frei Inocêncio	8873
+MG	Frei Lagonegro	3342
+MG	Fronteira	13983
+MG	Fronteira dos Vales	4835
+MG	Fruta de Leite	6327
+MG	Frutal	51766
+MG	Funilândia	3639
+MG	Galiléia	7302
+MG	Gameleiras	5226
+MG	Glaucilândia	2932
+MG	Goiabeira	3052
+MG	Goianá	3643
+MG	Gonçalves	4270
+MG	Gonzaga	5620
+MG	Gouveia	11569
+MG	Governador Valadares	260396
+MG	Grão Mogol	14594
+MG	Grupiara	1412
+MG	Guanhães	29286
+MG	Guapé	13152
+MG	Guaraciaba	10428
+MG	Guaraciama	4554
+MG	Guaranésia	18147
+MG	Guarani	9487
+MG	Guarará	4017
+MG	Guarda-Mor	6577
+MG	Guaxupé	47894
+MG	Guidoval	7321
+MG	Guimarânia	6946
+MG	Guiricema	8906
+MG	Gurinhatã	6194
+MG	Heliodora	6005
+MG	Iapu	10851
+MG	Ibertioga	5057
+MG	Ibiá	22069
+MG	Ibiaí	7571
+MG	Ibiracatu	5898
+MG	Ibiraci	11023
+MG	Ibirité	148535
+MG	Ibitiúra de Minas	3382
+MG	Ibituruna	2825
+MG	Icaraí de Minas	10331
+MG	Igarapé	31135
+MG	Igaratinga	8477
+MG	Iguatama	7632
+MG	Ijaci	5687
+MG	Ilicínea	11265
+MG	Imbé de Minas	6324
+MG	Inconfidentes	7253
+MG	Indaiabira	7482
+MG	Indianópolis	6244
+MG	Ingaí	2496
+MG	Inhapim	24289
+MG	Inhaúma	5347
+MG	Inimutaba	6420
+MG	Ipaba	14844
+MG	Ipanema	17128
+MG	Ipatinga	238397
+MG	Ipiaçu	4191
+MG	Ipuiúna	9183
+MG	Iraí de Minas	6295
+MG	Itabira	105159
+MG	Itabirinha	10338
+MG	Itabirito	41522
+MG	Itacambira	5018
+MG	Itacarambi	17626
+MG	Itaguara	12292
+MG	Itaipé	11497
+MG	Itajubá	86673
+MG	Itamarandiba	31883
+MG	Itamarati de Minas	4035
+MG	Itambacuri	22635
+MG	Itambé do Mato Dentro	2434
+MG	Itamogi	10828
+MG	Itamonte	13756
+MG	Itanhandu	14395
+MG	Itanhomi	11880
+MG	Itaobim	20986
+MG	Itapagipe	14019
+MG	Itapecerica	20653
+MG	Itapeva	7722
+MG	Itatiaiuçu	8953
+MG	Itaú de Minas	14551
+MG	Itaúna	81833
+MG	Itaverava	5724
+MG	Itinga	14587
+MG	Itueta	5830
+MG	Ituiutaba	92727
+MG	Itumirim	6439
+MG	Iturama	31495
+MG	Itutinga	4051
+MG	Jaboticatubas	15496
+MG	Jacinto	12422
+MG	Jacuí	7225
+MG	Jacutinga	20389
+MG	Jaguaraçu	2782
+MG	Jaíba	30386
+MG	Jampruca	4926
+MG	Janaúba	65387
+MG	Januária	64985
+MG	Japaraíba	3688
+MG	Japonvar	8232
+MG	Jeceaba	5892
+MG	Jenipapo de Minas	6905
+MG	Jequeri	12965
+MG	Jequitaí	8029
+MG	Jequitibá	5491
+MG	Jequitinhonha	23982
+MG	Jesuânia	4821
+MG	Joaíma	14881
+MG	Joanésia	5628
+MG	João Monlevade	71658
+MG	João Pinheiro	43229
+MG	Joaquim Felício	3937
+MG	Jordânia	10751
+MG	José Gonçalves de Minas	4547
+MG	José Raydan	4146
+MG	Josenópolis	4440
+MG	Juatuba	19528
+MG	Juiz de Fora	513348
+MG	Juramento	3960
+MG	Juruaia	8260
+MG	Juvenília	6050
+MG	Ladainha	16479
+MG	Lagamar	7636
+MG	Lagoa da Prata	44159
+MG	Lagoa dos Patos	4448
+MG	Lagoa Dourada	11792
+MG	Lagoa Formosa	16521
+MG	Lagoa Grande	8660
+MG	Lagoa Santa	44922
+MG	Lajinha	17580
+MG	Lambari	18547
+MG	Lamim	3546
+MG	Laranjal	6310
+MG	Lassance	6458
+MG	Lavras	87421
+MG	Leandro Ferreira	2955
+MG	Leme do Prado	4930
+MG	Leopoldina	49915
+MG	Liberdade	5333
+MG	Lima Duarte	15909
+MG	Limeira do Oeste	6492
+MG	Lontra	7979
+MG	Luisburgo	6276
+MG	Luislândia	6432
+MG	Luminárias	5374
+MG	Luz	17173
+MG	Machacalis	6855
+MG	Machado	37567
+MG	Madre de Deus de Minas	4951
+MG	Malacacheta	17917
+MG	Mamonas	6247
+MG	Manga	20903
+MG	Manhuaçu	74297
+MG	Manhumirim	20209
+MG	Mantena	26721
+MG	Mar de Espanha	11139
+MG	Maravilhas	6840
+MG	Maria da Fé	14249
+MG	Mariana	51693
+MG	Marilac	4285
+MG	Mário Campos	11421
+MG	Maripá de Minas	2827
+MG	Marliéria	3743
+MG	Marmelópolis	3100
+MG	Martinho Campos	12165
+MG	Martins Soares	6338
+MG	Mata Verde	7458
+MG	Materlândia	4662
+MG	Mateus Leme	25627
+MG	Mathias Lobato	3457
+MG	Matias Barbosa	13205
+MG	Matias Cardoso	10270
+MG	Matipó	16430
+MG	Mato Verde	12664
+MG	Matozinhos	33317
+MG	Matutina	3700
+MG	Medeiros	3238
+MG	Medina	20667
+MG	Mendes Pimentel	6431
+MG	Mercês	10452
+MG	Mesquita	6493
+MG	Minas Novas	30578
+MG	Minduri	3603
+MG	Mirabela	12769
+MG	Miradouro	10197
+MG	Miraí	12949
+MG	Miravânia	4708
+MG	Moeda	4506
+MG	Moema	6754
+MG	Monjolos	2303
+MG	Monsenhor Paulo	7391
+MG	Montalvânia	15961
+MG	Monte Alegre de Minas	18348
+MG	Monte Azul	22437
+MG	Monte Belo	12573
+MG	Monte Carmelo	44367
+MG	Monte Formoso	4709
+MG	Monte Santo de Minas	20133
+MG	Monte Sião	19228
+MG	Montes Claros	352384
+MG	Montezuma	7259
+MG	Morada Nova de Minas	8297
+MG	Morro da Garça	2887
+MG	Morro do Pilar	3474
+MG	Munhoz	6298
+MG	Muriaé	95548
+MG	Mutum	26331
+MG	Muzambinho	19925
+MG	Nacip Raydan	2957
+MG	Nanuque	40307
+MG	Naque	5885
+MG	Natalândia	3271
+MG	Natércia	4623
+MG	Nazareno	7716
+MG	Nepomuceno	24430
+MG	Ninheira	10414
+MG	Nova Belém	3629
+MG	Nova Era	17932
+MG	Nova Lima	72207
+MG	Nova Módica	3878
+MG	Nova Ponte	11586
+MG	Nova Porteirinha	7358
+MG	Nova Resende	14145
+MG	Nova Serrana	60195
+MG	Nova União	5461
+MG	Novo Cruzeiro	30331
+MG	Novo Oriente de Minas	10327
+MG	Novorizonte	4899
+MG	Olaria	2380
+MG	Olhos-d'Água	4991
+MG	Olímpio Noronha	2505
+MG	Oliveira	37805
+MG	Oliveira Fortes	1939
+MG	Onça de Pitangui	3019
+MG	Oratórios	4385
+MG	Orizânia	6771
+MG	Ouro Branco	33548
+MG	Ouro Fino	31154
+MG	Ouro Preto	67048
+MG	Ouro Verde de Minas	6832
+MG	Padre Carvalho	5828
+MG	Padre Paraíso	18120
+MG	Pai Pedro	5979
+MG	Paineiras	4594
+MG	Pains	8122
+MG	Paiva	1630
+MG	Palma	6118
+MG	Palmópolis	7041
+MG	Papagaios	14410
+MG	Pará de Minas	79852
+MG	Paracatu	79739
+MG	Paraguaçu	19603
+MG	Paraisópolis	18088
+MG	Paraopeba	22204
+MG	Passa Quatro	15285
+MG	Passa Tempo	8494
+MG	Passabém	1801
+MG	Passa-Vinte	2082
+MG	Passos	102765
+MG	Patis	5346
+MG	Patos de Minas	133054
+MG	Patrocínio	81589
+MG	Patrocínio do Muriaé	5319
+MG	Paula Cândido	9086
+MG	Paulistas	4893
+MG	Pavão	8868
+MG	Peçanha	17157
+MG	Pedra Azul	24851
+MG	Pedra Bonita	6474
+MG	Pedra do Anta	3672
+MG	Pedra do Indaiá	3921
+MG	Pedra Dourada	2100
+MG	Pedralva	11184
+MG	Pedras de Maria da Cruz	10976
+MG	Pedrinópolis	3448
+MG	Pedro Leopoldo	56518
+MG	Pedro Teixeira	1658
+MG	Pequeri	2997
+MG	Pequi	4232
+MG	Perdigão	7310
+MG	Perdizes	13924
+MG	Perdões	19407
+MG	Periquito	7030
+MG	Pescador	4056
+MG	Piau	2973
+MG	Piedade de Caratinga	6444
+MG	Piedade de Ponte Nova	4113
+MG	Piedade do Rio Grande	4781
+MG	Piedade dos Gerais	4542
+MG	Pimenta	8164
+MG	Pingo-d'Água	4016
+MG	Pintópolis	7727
+MG	Piracema	6554
+MG	Pirajuba	3694
+MG	Piranga	17208
+MG	Piranguçu	5125
+MG	Piranguinho	7849
+MG	Pirapetinga	10240
+MG	Pirapora	51636
+MG	Piraúba	10686
+MG	Pitangui	24618
+MG	Piumhi	30984
+MG	Planura	10289
+MG	Poço Fundo	15350
+MG	Poços de Caldas	144386
+MG	Pocrane	8769
+MG	Pompéu	28393
+MG	Ponte Nova	55687
+MG	Ponto Chique	4046
+MG	Ponto dos Volantes	10976
+MG	Porteirinha	36864
+MG	Porto Firme	10404
+MG	Poté	14749
+MG	Pouso Alegre	120467
+MG	Pouso Alto	6359
+MG	Prados	8168
+MG	Prata	25511
+MG	Pratápolis	8653
+MG	Pratinha	3236
+MG	Presidente Bernardes	5699
+MG	Presidente Juscelino	4257
+MG	Presidente Kubitschek	2978
+MG	Presidente Olegário	18256
+MG	Prudente de Morais	8874
+MG	Quartel Geral	3200
+MG	Queluzito	1826
+MG	Raposos	14874
+MG	Raul Soares	23901
+MG	Recreio	10194
+MG	Reduto	6344
+MG	Resende Costa	10537
+MG	Resplendor	17024
+MG	Ressaquinha	4574
+MG	Riachinho	8126
+MG	Riacho dos Machados	9392
+MG	Ribeirão das Neves	329112
+MG	Ribeirão Vermelho	3773
+MG	Rio Acima	8257
+MG	Rio Casca	14496
+MG	Rio do Prado	4489
+MG	Rio Doce	2520
+MG	Rio Espera	6594
+MG	Rio Manso	5007
+MG	Rio Novo	8914
+MG	Rio Paranaíba	10809
+MG	Rio Pardo de Minas	28633
+MG	Rio Piracicaba	14319
+MG	Rio Pomba	16715
+MG	Rio Preto	5388
+MG	Rio Vermelho	14856
+MG	Ritápolis	5068
+MG	Rochedo de Minas	2036
+MG	Rodeiro	6178
+MG	Romaria	3561
+MG	Rosário da Limeira	4151
+MG	Rubelita	8299
+MG	Rubim	9561
+MG	Sabará	120770
+MG	Sabinópolis	15889
+MG	Sacramento	22159
+MG	Salinas	37370
+MG	Salto da Divisa	6896
+MG	Santa Bárbara	26185
+MG	Santa Bárbara do Leste	7451
+MG	Santa Bárbara do Monte Verde	2796
+MG	Santa Bárbara do Tugúrio	4504
+MG	Santa Cruz de Minas	7347
+MG	Santa Cruz de Salinas	5192
+MG	Santa Cruz do Escalvado	5193
+MG	Santa Efigênia de Minas	4519
+MG	Santa Fé de Minas	4034
+MG	Santa Helena de Minas	5892
+MG	Santa Juliana	10582
+MG	Santa Luzia	222507
+MG	Santa Margarida	14205
+MG	Santa Maria de Itabira	10445
+MG	Santa Maria do Salto	5724
+MG	Santa Maria do Suaçuí	14427
+MG	Santa Rita de Caldas	9078
+MG	Santa Rita de Ibitipoca	3747
+MG	Santa Rita de Jacutinga	5588
+MG	Santa Rita de Minas	5787
+MG	Santa Rita do Itueto	5652
+MG	Santa Rita do Sapucaí	34246
+MG	Santa Rosa da Serra	3261
+MG	Santa Vitória	15492
+MG	Santana da Vargem	7092
+MG	Santana de Cataguases	3603
+MG	Santana de Pirapama	8549
+MG	Santana do Deserto	3833
+MG	Santana do Garambéu	2104
+MG	Santana do Jacaré	4532
+MG	Santana do Manhuaçu	8185
+MG	Santana do Paraíso	22765
+MG	Santana do Riacho	4159
+MG	Santana dos Montes	3989
+MG	Santo Antônio do Amparo	17255
+MG	Santo Antônio do Aventureiro	3489
+MG	Santo Antônio do Grama	4241
+MG	Santo Antônio do Itambé	4517
+MG	Santo Antônio do Jacinto	11294
+MG	Santo Antônio do Monte	24746
+MG	Santo Antônio do Retiro	6817
+MG	Santo Antônio do Rio Abaixo	1753
+MG	Santo Hipólito	3541
+MG	Santos Dumont	45922
+MG	São Bento Abade	4400
+MG	São Brás do Suaçuí	3488
+MG	São Domingos das Dores	5232
+MG	São Domingos do Prata	17349
+MG	São Félix de Minas	3387
+MG	São Francisco	52985
+MG	São Francisco de Paula	6246
+MG	São Francisco de Sales	5167
+MG	São Francisco do Glória	5539
+MG	São Geraldo	9171
+MG	São Geraldo da Piedade	4768
+MG	São Geraldo do Baixio	3253
+MG	São Gonçalo do Abaeté	6156
+MG	São Gonçalo do Pará	10308
+MG	São Gonçalo do Rio Abaixo	9233
+MG	São Gonçalo do Rio Preto	3124
+MG	São Gonçalo do Sapucaí	22756
+MG	São Gotardo	30757
+MG	São João Batista do Glória	6828
+MG	São João da Lagoa	4729
+MG	São João da Mata	2858
+MG	São João da Ponte	26091
+MG	São João das Missões	10769
+MG	São João del Rei	81918
+MG	São João do Manhuaçu	9394
+MG	São João do Manteninha	4855
+MG	São João do Oriente	7988
+MG	São João do Pacuí	4003
+MG	São João do Paraíso	21839
+MG	São João Evangelista	15686
+MG	São João Nepomuceno	25011
+MG	São Joaquim de Bicas	22214
+MG	São José da Barra	6701
+MG	São José da Lapa	17900
+MG	São José da Safira	3929
+MG	São José da Varginha	3797
+MG	São José do Alegre	3908
+MG	São José do Divino	3776
+MG	São José do Goiabal	5646
+MG	São José do Jacuri	6958
+MG	São José do Mantimento	2472
+MG	São Lourenço	40441
+MG	São Miguel do Anta	6820
+MG	São Pedro da União	5291
+MG	São Pedro do Suaçuí	5801
+MG	São Pedro dos Ferros	8880
+MG	São Romão	9080
+MG	São Roque de Minas	6141
+MG	São Sebastião da Bela Vista	4884
+MG	São Sebastião da Vargem Alegre	2743
+MG	São Sebastião do Anta	5388
+MG	São Sebastião do Maranhão	11686
+MG	São Sebastião do Oeste	5336
+MG	São Sebastião do Paraíso	61838
+MG	São Sebastião do Rio Preto	1700
+MG	São Sebastião do Rio Verde	2170
+MG	São Thomé das Letras	6617
+MG	São Tiago	10289
+MG	São Tomás de Aquino	6934
+MG	São Vicente de Minas	6283
+MG	Sapucaí-Mirim	5772
+MG	Sardoá	5196
+MG	Sarzedo	23282
+MG	Sem-Peixe	2950
+MG	Senador Amaral	5051
+MG	Senador Cortes	2011
+MG	Senador Firmino	7019
+MG	Senador José Bento	1908
+MG	Senador Modestino Gonçalves	4988
+MG	Senhora de Oliveira	5675
+MG	Senhora do Porto	3517
+MG	Senhora dos Remédios	10201
+MG	Sericita	7083
+MG	Seritinga	1755
+MG	Serra Azul de Minas	4307
+MG	Serra da Saudade	863
+MG	Serra do Salitre	10224
+MG	Serra dos Aimorés	8345
+MG	Serrania	7370
+MG	Serranópolis de Minas	4515
+MG	Serranos	2063
+MG	Serro	20862
+MG	Sete Lagoas	217506
+MG	Setubinha	10834
+MG	Silveirânia	2125
+MG	Silvianópolis	6018
+MG	Simão Pereira	2503
+MG	Simonésia	17257
+MG	Sobrália	5990
+MG	Soledade de Minas	5518
+MG	Tabuleiro	4061
+MG	Taiobeiras	29732
+MG	Taparuba	3243
+MG	Tapira	3575
+MG	Tapiraí	1841
+MG	Taquaraçu de Minas	3757
+MG	Tarumirim	14185
+MG	Teixeiras	11665
+MG	Teófilo Otoni	126895
+MG	Timóteo	76092
+MG	Tiradentes	6547
+MG	Tiros	7416
+MG	Tocantins	15704
+MG	Tocos do Moji	3926
+MG	Toledo	5720
+MG	Tombos	9194
+MG	Três Corações	71737
+MG	Três Marias	26431
+MG	Três Pontas	52121
+MG	Tumiritinga	5964
+MG	Tupaciguara	23076
+MG	Turmalina	17219
+MG	Turvolândia	4737
+MG	Ubá	94228
+MG	Ubaí	11834
+MG	Ubaporanga	12060
+MG	Uberaba	287760
+MG	Uberlândia	608369
+MG	Umburatiba	2776
+MG	Unaí	74495
+MG	União de Minas	4593
+MG	Uruana de Minas	2777
+MG	Urucânia	10203
+MG	Urucuia	11376
+MG	Vargem Alegre	6594
+MG	Vargem Bonita	2098
+MG	Vargem Grande do Rio Pardo	4703
+MG	Varginha	116093
+MG	Varjão de Minas	5993
+MG	Várzea da Palma	34448
+MG	Varzelândia	19137
+MG	Vazante	19300
+MG	Verdelândia	8029
+MG	Veredinha	5732
+MG	Veríssimo	3667
+MG	Vermelho Novo	4551
+MG	Vespasiano	94191
+MG	Viçosa	70404
+MG	Vieiras	3808
+MG	Virgem da Lapa	14103
+MG	Virgínia	8351
+MG	Virginópolis	10891
+MG	Virgolândia	5724
+MG	Visconde do Rio Branco	35346
+MG	Volta Grande	5166
+MG	Wenceslau Braz	2509
+ES	Afonso Cláudio	30773
+ES	Água Doce do Norte	11934
+ES	Águia Branca	9281
+ES	Alegre	30473
+ES	Alfredo Chaves	13983
+ES	Alto Rio Novo	6198
+ES	Anchieta	19459
+ES	Apiacá	7617
+ES	Aracruz	73358
+ES	Atilio Vivacqua	8878
+ES	Baixo Guandu	28637
+ES	Barra de São Francisco	39627
+ES	Boa Esperança	12912
+ES	Bom Jesus do Norte	9318
+ES	Brejetuba	10949
+ES	Cachoeiro de Itapemirim	195288
+ES	Cariacica	356536
+ES	Castelo	32250
+ES	Colatina	106637
+ES	Conceição da Barra	26230
+ES	Conceição do Castelo	11326
+ES	Divino de São Lourenço	4837
+ES	Domingos Martins	31175
+ES	Dores do Rio Preto	6106
+ES	Ecoporanga	23296
+ES	Fundão	15209
+ES	Governador Lindenberg	9890
+ES	Guaçuí	25761
+ES	Guarapari	98073
+ES	Ibatiba	19649
+ES	Ibiraçu	10312
+ES	Ibitirama	8994
+ES	Iconha	11496
+ES	Irupi	10369
+ES	Itaguaçu	13881
+ES	Itapemirim	30833
+ES	Itarana	10569
+ES	Iúna	25533
+ES	Jaguaré	21949
+ES	Jerônimo Monteiro	10701
+ES	João Neiva	14403
+ES	Laranja da Terra	10802
+ES	Linhares	124564
+ES	Mantenópolis	11463
+ES	Marataízes	31221
+ES	Marechal Floriano	12699
+ES	Marilândia	10226
+ES	Mimoso do Sul	26208
+ES	Montanha	17998
+ES	Mucurici	5755
+ES	Muniz Freire	18196
+ES	Muqui	13841
+ES	Nova Venécia	44380
+ES	Pancas	18465
+ES	Pedro Canário	23204
+ES	Pinheiros	22663
+ES	Piúma	16249
+ES	Ponto Belo	6831
+ES	Presidente Kennedy	10307
+ES	Rio Bananal	16587
+ES	Rio Novo do Sul	11111
+ES	Santa Leopoldina	12349
+ES	Santa Maria de Jetibá	31845
+ES	Santa Teresa	20179
+ES	São Domingos do Norte	7840
+ES	São Gabriel da Palha	28878
+ES	São José do Calçado	10570
+ES	São Mateus	96390
+ES	São Roque do Canaã	10439
+ES	Serra	385370
+ES	Sooretama	21867
+ES	Vargem Alta	17862
+ES	Venda Nova do Imigrante	18610
+ES	Viana	57539
+ES	Vila Pavão	8705
+ES	Vila Valério	13646
+ES	Vila Velha	398068
+ES	Vitória	314042
+RJ	Angra dos Reis	148476
+RJ	Aperibé	8820
+RJ	Araruama	98268
+RJ	Areal	11009
+RJ	Armação dos Búzios	24560
+RJ	Arraial do Cabo	25248
+RJ	Barra do Piraí	96282
+RJ	Barra Mansa	175315
+RJ	Belford Roxo	480555
+RJ	Bom Jardim	24626
+RJ	Bom Jesus do Itabapoana	33888
+RJ	Cabo Frio	162229
+RJ	Cachoeiras de Macacu	53037
+RJ	Cambuci	14368
+RJ	Campos dos Goytacazes	426154
+RJ	Cantagalo	19799
+RJ	Carapebus	10677
+RJ	Cardoso Moreira	12206
+RJ	Carmo	16690
+RJ	Casimiro de Abreu	27086
+RJ	Comendador Levy Gasparian	8322
+RJ	Conceição de Macabu	19479
+RJ	Cordeiro	18984
+RJ	Duas Barras	10438
+RJ	Duque de Caxias	842686
+RJ	Engenheiro Paulo de Frontin	12544
+RJ	Guapimirim	44692
+RJ	Iguaba Grande	19716
+RJ	Itaboraí	215792
+RJ	Itaguaí	95356
+RJ	Italva	13645
+RJ	Itaocara	22069
+RJ	Itaperuna	92852
+RJ	Itatiaia	31185
+RJ	Japeri	93197
+RJ	Laje do Muriaé	7769
+RJ	Macaé	169513
+RJ	Macuco	5246
+RJ	Magé	232171
+RJ	Mangaratiba	29253
+RJ	Maricá	105294
+RJ	Mendes	17242
+RJ	Mesquita	182495
+RJ	Miguel Pereira	24585
+RJ	Miracema	26231
+RJ	Natividade	14930
+RJ	Nilópolis	153581
+RJ	Niterói	474002
+RJ	Nova Friburgo	177376
+RJ	Nova Iguaçu	830672
+RJ	Paracambi	42423
+RJ	Paraíba do Sul	39257
+RJ	Parati	32838
+RJ	Paty do Alferes	25132
+RJ	Petrópolis	306645
+RJ	Pinheiral	20885
+RJ	Piraí	24170
+RJ	Porciúncula	17178
+RJ	Porto Real	14503
+RJ	Quatis	12031
+RJ	Queimados	130275
+RJ	Quissamã	17376
+RJ	Resende	118547
+RJ	Rio Bonito	51942
+RJ	Rio Claro	17216
+RJ	Rio das Flores	8192
+RJ	Rio das Ostras	74750
+RJ	Rio de Janeiro	6093472
+RJ	Santa Maria Madalena	10409
+RJ	Santo Antônio de Pádua	40145
+RJ	São Fidélis	37477
+RJ	São Francisco de Itabapoana	44549
+RJ	São Gonçalo	960631
+RJ	São João da Barra	28889
+RJ	São João de Meriti	464282
+RJ	São José de Ubá	6829
+RJ	São José do Vale do Rio Preto	19439
+RJ	São Pedro da Aldeia	75869
+RJ	São Sebastião do Alto	8616
+RJ	Sapucaia	16858
+RJ	Saquarema	62174
+RJ	Seropédica	72466
+RJ	Silva Jardim	21362
+RJ	Sumidouro	14562
+RJ	Tanguá	28322
+RJ	Teresópolis	150268
+RJ	Trajano de Morais	9706
+RJ	Três Rios	72848
+RJ	Valença	70850
+RJ	Varre-Sai	8309
+RJ	Vassouras	32495
+RJ	Volta Redonda	255653
+SP	Adamantina	33289
+SP	Adolfo	3609
+SP	Aguaí	30181
+SP	Águas da Prata	7367
+SP	Águas de Lindóia	15867
+SP	Águas de Santa Bárbara	5360
+SP	Águas de São Pedro	2340
+SP	Agudos	34221
+SP	Alambari	4070
+SP	Alfredo Marcondes	3851
+SP	Altair	3272
+SP	Altinópolis	15139
+SP	Alto Alegre	4157
+SP	Alumínio	15678
+SP	Álvares Florence	3902
+SP	Álvares Machado	22859
+SP	Álvaro de Carvalho	4610
+SP	Alvinlândia	2787
+SP	Americana	199094
+SP	Américo Brasiliense	31005
+SP	Américo de Campos	5379
+SP	Amparo	62692
+SP	Analândia	4166
+SP	Andradina	54753
+SP	Angatuba	21523
+SP	Anhembi	5271
+SP	Anhumas	3695
+SP	Aparecida	35903
+SP	Aparecida d'Oeste	4577
+SP	Apiaí	25463
+SP	Araçariguama	12291
+SP	Araçatuba	178839
+SP	Araçoiaba da Serra	24022
+SP	Aramina	5019
+SP	Arandu	6013
+SP	Arapeí	2527
+SP	Araraquara	195815
+SP	Araras	108689
+SP	Arco-Íris	2003
+SP	Arealva	7504
+SP	Areias	3571
+SP	Areiópolis	10630
+SP	Ariranha	8255
+SP	Artur Nogueira	39457
+SP	Arujá	72713
+SP	Aspásia	1790
+SP	Assis	92965
+SP	Atibaia	119166
+SP	Auriflama	13760
+SP	Avaí	4877
+SP	Avanhandava	10875
+SP	Avaré	80026
+SP	Bady Bassitt	13039
+SP	Balbinos	3619
+SP	Bálsamo	7767
+SP	Bananal	10233
+SP	Barão de Antonina	2751
+SP	Barbosa	6454
+SP	Bariri	30995
+SP	Barra Bonita	35090
+SP	Barra do Chapéu	5077
+SP	Barra do Turvo	7620
+SP	Barretos	107988
+SP	Barrinha	25715
+SP	Barueri	252748
+SP	Bastos	20613
+SP	Batatais	53525
+SP	Bauru	347601
+SP	Bebedouro	74865
+SP	Bento de Abreu	2740
+SP	Bernardino de Campos	10487
+SP	Bertioga	39091
+SP	Bilac	6905
+SP	Birigui	103394
+SP	Biritiba-Mirim	27483
+SP	Boa Esperança do Sul	13208
+SP	Bocaina	10299
+SP	Bofete	8565
+SP	Boituva	40783
+SP	Bom Jesus dos Perdões	16211
+SP	Bom Sucesso de Itararé	3658
+SP	Borá	804
+SP	Boracéia	4128
+SP	Borborema	13752
+SP	Borebi	2172
+SP	Botucatu	120800
+SP	Bragança Paulista	136286
+SP	Braúna	4728
+SP	Brejo Alegre	2432
+SP	Brodowski	19018
+SP	Brotas	20996
+SP	Buri	17539
+SP	Buritama	14735
+SP	Buritizal	3872
+SP	Cabrália Paulista	4340
+SP	Cabreúva	38898
+SP	Caçapava	80458
+SP	Cachoeira Paulista	31674
+SP	Caconde	18552
+SP	Cafelândia	16073
+SP	Caiabu	4011
+SP	Caieiras	81163
+SP	Caiuá	4953
+SP	Cajamar	58436
+SP	Cajati	28285
+SP	Cajobi	9519
+SP	Cajuru	22695
+SP	Campina do Monte Alegre	5320
+SP	Campinas	1039297
+SP	Campo Limpo Paulista	69810
+SP	Campos do Jordão	44688
+SP	Campos Novos Paulista	4651
+SP	Cananéia	12039
+SP	Canas	4318
+SP	Cândido Mota	29572
+SP	Cândido Rodrigues	2655
+SP	Canitar	4265
+SP	Capão Bonito	45275
+SP	Capela do Alto	15950
+SP	Capivari	43779
+SP	Caraguatatuba	88815
+SP	Carapicuíba	379566
+SP	Cardoso	11324
+SP	Casa Branca	27081
+SP	Cássia dos Coqueiros	2706
+SP	Castilho	15410
+SP	Catanduva	109362
+SP	Catiguá	6870
+SP	Cedral	7607
+SP	Cerqueira César	16276
+SP	Cerquilho	34769
+SP	Cesário Lange	14005
+SP	Charqueada	14356
+SP	Chavantes	12226
+SP	Clementina	6081
+SP	Colina	16989
+SP	Colômbia	6073
+SP	Conchal	23352
+SP	Conchas	15473
+SP	Cordeirópolis	19309
+SP	Coroados	4881
+SP	Coronel Macedo	5277
+SP	Corumbataí	3935
+SP	Cosmópolis	53561
+SP	Cosmorama	6951
+SP	Cotia	172823
+SP	Cravinhos	29377
+SP	Cristais Paulista	7005
+SP	Cruzália	2368
+SP	Cruzeiro	76098
+SP	Cubatão	120271
+SP	Cunha	22951
+SP	Descalvado	29533
+SP	Diadema	386779
+SP	Dirce Reis	1582
+SP	Divinolândia	11246
+SP	Dobrada	7664
+SP	Dois Córregos	24384
+SP	Dolcinópolis	2181
+SP	Dourado	8751
+SP	Dracena	42107
+SP	Duartina	12381
+SP	Dumont	7557
+SP	Echaporã	6247
+SP	Eldorado	14038
+SP	Elias Fausto	14521
+SP	Elisiário	3024
+SP	Embaúba	2391
+SP	Embu	237318
+SP	Embu-Guaçu	59083
+SP	Emilianópolis	3021
+SP	Engenheiro Coelho	12729
+SP	Espírito Santo do Pinhal	40684
+SP	Espírito Santo do Turvo	4103
+SP	Estiva Gerbi	9185
+SP	Estrela do Norte	2454
+SP	Estrela d'Oeste	8590
+SP	Euclides da Cunha Paulista	9923
+SP	Fartura	14601
+SP	Fernando Prestes	5212
+SP	Fernandópolis	61392
+SP	Fernão	1457
+SP	Ferraz de Vasconcelos	168897
+SP	Flora Rica	2019
+SP	Floreal	2907
+SP	Flórida Paulista	12660
+SP	Florínia	2860
+SP	Franca	319094
+SP	Francisco Morato	146634
+SP	Franco da Rocha	121451
+SP	Gabriel Monteiro	2638
+SP	Gália	6812
+SP	Garça	42218
+SP	Gastão Vidigal	3863
+SP	Gavião Peixoto	4103
+SP	General Salgado	10626
+SP	Getulina	10515
+SP	Glicério	4398
+SP	Guaiçara	10357
+SP	Guaimbê	4752
+SP	Guaíra	36544
+SP	Guapiaçu	16392
+SP	Guapiara	20056
+SP	Guará	18611
+SP	Guaraçaí	8505
+SP	Guaraci	9045
+SP	Guarani d'Oeste	1963
+SP	Guarantã	6410
+SP	Guararapes	28662
+SP	Guararema	24854
+SP	Guaratinguetá	107895
+SP	Guareí	13202
+SP	Guariba	32664
+SP	Guarujá	296150
+SP	Guarulhos	1236192
+SP	Guatapará	6217
+SP	Guzolândia	4616
+SP	Herculândia	8573
+SP	Holambra	9111
+SP	Hortolândia	190781
+SP	Iacanga	9074
+SP	Iacri	6677
+SP	Iaras	4777
+SP	Ibaté	28040
+SP	Ibirá	10379
+SP	Ibirarema	6617
+SP	Ibitinga	49951
+SP	Ibiúna	64832
+SP	Icém	6429
+SP	Iepê	7487
+SP	Igaraçu do Tietê	23085
+SP	Igarapava	26862
+SP	Igaratá	8537
+SP	Iguape	28977
+SP	Ilha Comprida	8875
+SP	Ilha Solteira	24181
+SP	Ilhabela	23886
+SP	Indaiatuba	173508
+SP	Indiana	4682
+SP	Indiaporã	3880
+SP	Inúbia Paulista	3595
+SP	Ipaussu	12964
+SP	Iperó	24239
+SP	Ipeúna	5164
+SP	Ipiguá	3925
+SP	Iporanga	4603
+SP	Ipuã	14344
+SP	Iracemápolis	18026
+SP	Irapuã	6710
+SP	Irapuru	7556
+SP	Itaberá	17576
+SP	Itaí	22617
+SP	Itajobi	14182
+SP	Itaju	2624
+SP	Itanhaém	80778
+SP	Itaóca	3087
+SP	Itapecerica da Serra	148728
+SP	Itapetininga	138450
+SP	Itapeva	85537
+SP	Itapevi	193686
+SP	Itapira	68187
+SP	Itapirapuã Paulista	3723
+SP	Itápolis	38633
+SP	Itaporanga	14284
+SP	Itapuí	11605
+SP	Itapura	3812
+SP	Itaquaquecetuba	334914
+SP	Itararé	48732
+SP	Itariri	15115
+SP	Itatiba	91479
+SP	Itatinga	17570
+SP	Itirapina	13889
+SP	Itirapuã	5614
+SP	Itobi	7444
+SP	Itu	147251
+SP	Itupeva	36766
+SP	Ituverava	38539
+SP	Jaborandi	6462
+SP	Jaboticabal	69624
+SP	Jacareí	207028
+SP	Jaci	5008
+SP	Jacupiranga	16112
+SP	Jaguariúna	36804
+SP	Jales	47649
+SP	Jambeiro	4968
+SP	Jandira	103578
+SP	Jardinópolis	34611
+SP	Jarinu	20611
+SP	Jaú	125469
+SP	Jeriquara	3153
+SP	Joanópolis	10671
+SP	João Ramalho	4092
+SP	José Bonifácio	30639
+SP	Júlio Mesquita	4318
+SP	Jumirim	2205
+SP	Jundiaí	342983
+SP	Junqueirópolis	18628
+SP	Juquiá	19352
+SP	Juquitiba	27777
+SP	Lagoinha	4798
+SP	Laranjal Paulista	24454
+SP	Lavínia	7984
+SP	Lavrinhas	6543
+SP	Leme	84406
+SP	Lençóis Paulista	59366
+SP	Limeira	272734
+SP	Lindóia	5657
+SP	Lins	69279
+SP	Lorena	79317
+SP	Lourdes	1974
+SP	Louveira	29760
+SP	Lucélia	19212
+SP	Lucianópolis	2299
+SP	Luís Antônio	10272
+SP	Luiziânia	4763
+SP	Lupércio	4238
+SP	Lutécia	2794
+SP	Macatuba	16173
+SP	Macaubal	7396
+SP	Macedônia	3411
+SP	Magda	3154
+SP	Mairinque	41508
+SP	Mairiporã	71754
+SP	Manduri	8651
+SP	Marabá Paulista	5193
+SP	Maracaí	13163
+SP	Marapoama	2556
+SP	Mariápolis	3786
+SP	Marília	218113
+SP	Marinópolis	2114
+SP	Martinópolis	23983
+SP	Matão	74407
+SP	Mauá	402643
+SP	Mendonça	3980
+SP	Meridiano	3857
+SP	Mesópolis	1768
+SP	Miguelópolis	19972
+SP	Mineiros do Tietê	11760
+SP	Mira Estrela	2576
+SP	Miracatu	22796
+SP	Mirandópolis	25849
+SP	Mirante do Paranapanema	17128
+SP	Mirassol	51660
+SP	Mirassolândia	4099
+SP	Mococa	66086
+SP	Mogi das Cruzes	362991
+SP	Mogi Guaçu	131870
+SP	Moji Mirim	84176
+SP	Mombuca	3280
+SP	Monções	2054
+SP	Mongaguá	40423
+SP	Monte Alegre do Sul	6957
+SP	Monte Alto	44085
+SP	Monte Aprazível	19745
+SP	Monte Azul Paulista	19187
+SP	Monte Castelo	4014
+SP	Monte Mor	42824
+SP	Monteiro Lobato	3994
+SP	Morro Agudo	25390
+SP	Morungaba	12007
+SP	Motuca	4340
+SP	Murutinga do Sul	4091
+SP	Nantes	2483
+SP	Narandiba	3941
+SP	Natividade da Serra	7275
+SP	Nazaré Paulista	14613
+SP	Neves Paulista	8825
+SP	Nhandeara	10334
+SP	Nipoã	3762
+SP	Nova Aliança	4905
+SP	Nova Campina	8474
+SP	Nova Canaã Paulista	2205
+SP	Nova Castilho	1057
+SP	Nova Europa	9047
+SP	Nova Granada	17739
+SP	Nova Guataporanga	2101
+SP	Nova Independência	2480
+SP	Nova Luzitânia	3403
+SP	Nova Odessa	45625
+SP	Novais	3661
+SP	Novo Horizonte	34264
+SP	Nuporanga	6629
+SP	Ocauçu	4180
+SP	Óleo	2714
+SP	Olímpia	48020
+SP	Onda Verde	3736
+SP	Oriente	6079
+SP	Orindiúva	4916
+SP	Orlândia	36149
+SP	Osasco	701012
+SP	Oscar Bressane	2476
+SP	Osvaldo Cruz	30150
+SP	Ourinhos	98868
+SP	Ouro Verde	7668
+SP	Ouroeste	7035
+SP	Pacaembu	13072
+SP	Palestina	10428
+SP	Palmares Paulista	10508
+SP	Palmeira d'Oeste	9634
+SP	Palmital	21298
+SP	Panorama	13944
+SP	Paraguaçu Paulista	42117
+SP	Paraibuna	16456
+SP	Paraíso	5559
+SP	Paranapanema	16667
+SP	Paranapuã	3614
+SP	Parapuã	11029
+SP	Pardinho	5030
+SP	Pariquera-Açu	18079
+SP	Parisi	2038
+SP	Patrocínio Paulista	12183
+SP	Paulicéia	5506
+SP	Paulínia	73014
+SP	Paulistânia	1824
+SP	Paulo de Faria	8942
+SP	Pederneiras	40270
+SP	Pedra Bela	5835
+SP	Pedranópolis	2734
+SP	Pedregulho	15156
+SP	Pedreira	38152
+SP	Pedrinhas Paulista	2834
+SP	Pedro de Toledo	9692
+SP	Penápolis	56681
+SP	Pereira Barreto	24220
+SP	Pereiras	7347
+SP	Peruíbe	54457
+SP	Piacatu	5093
+SP	Piedade	48430
+SP	Pilar do Sul	26457
+SP	Pindamonhangaba	135682
+SP	Pindorama	14345
+SP	Pinhalzinho	11817
+SP	Piquerobi	3599
+SP	Piquete	14475
+SP	Piracaia	22335
+SP	Piracicaba	358108
+SP	Piraju	28228
+SP	Pirajuí	21035
+SP	Pirangi	10315
+SP	Pirapora do Bom Jesus	14370
+SP	Pirapozinho	23709
+SP	Pirassununga	67787
+SP	Piratininga	11287
+SP	Pitangueiras	33329
+SP	Planalto	4014
+SP	Platina	3167
+SP	Poá	104904
+SP	Poloni	4880
+SP	Pompéia	19091
+SP	Pongaí	3473
+SP	Pontal	35560
+SP	Pontalinda	3906
+SP	Pontes Gestal	2487
+SP	Populina	4201
+SP	Porangaba	8069
+SP	Porto Feliz	46054
+SP	Porto Ferreira	48760
+SP	Potim	18143
+SP	Potirendaba	14327
+SP	Pracinha	2667
+SP	Pradópolis	15148
+SP	Praia Grande	233806
+SP	Pratânia	4309
+SP	Presidente Alves	4346
+SP	Presidente Bernardes	14788
+SP	Presidente Epitácio	39403
+SP	Presidente Prudente	202789
+SP	Presidente Venceslau	37155
+SP	Promissão	34786
+SP	Quadra	2679
+SP	Quatá	11971
+SP	Queiroz	2603
+SP	Queluz	10323
+SP	Quintana	5654
+SP	Rafard	8151
+SP	Rancharia	28303
+SP	Redenção da Serra	4081
+SP	Regente Feijó	17070
+SP	Reginópolis	6993
+SP	Registro	53369
+SP	Restinga	6350
+SP	Ribeira	3444
+SP	Ribeirão Bonito	11383
+SP	Ribeirão Branco	18879
+SP	Ribeirão Corrente	4014
+SP	Ribeirão do Sul	4497
+SP	Ribeirão dos Índios	2231
+SP	Ribeirão Grande	6928
+SP	Ribeirão Pires	107046
+SP	Ribeirão Preto	547417
+SP	Rifaina	3587
+SP	Rincão	10425
+SP	Rinópolis	9393
+SP	Rio Claro	185421
+SP	Rio das Pedras	26344
+SP	Rio Grande da Serra	39270
+SP	Riolândia	9713
+SP	Riversul	6545
+SP	Rosana	19943
+SP	Roseira	9016
+SP	Rubiácea	2501
+SP	Rubinéia	2546
+SP	Sabino	5150
+SP	Sagres	2307
+SP	Sales	5025
+SP	Sales Oliveira	8187
+SP	Salesópolis	15157
+SP	Salmourão	4551
+SP	Saltinho	6586
+SP	Salto	102311
+SP	Salto de Pirapora	37324
+SP	Salto Grande	8592
+SP	Sandovalina	3217
+SP	Santa Adélia	13861
+SP	Santa Albertina	5042
+SP	Santa Bárbara d'Oeste	184318
+SP	Santa Branca	13282
+SP	Santa Clara d'Oeste	2081
+SP	Santa Cruz da Conceição	3872
+SP	Santa Cruz da Esperança	1707
+SP	Santa Cruz das Palmeiras	30458
+SP	Santa Cruz do Rio Pardo	41655
+SP	Santa Ernestina	5510
+SP	Santa Fé do Sul	27693
+SP	Santa Gertrudes	19044
+SP	Santa Isabel	44817
+SP	Santa Lúcia	7862
+SP	Santa Maria da Serra	5417
+SP	Santa Mercedes	2589
+SP	Santa Rita do Passa Quatro	26456
+SP	Santa Rita d'Oeste	2493
+SP	Santa Rosa de Viterbo	22699
+SP	Santa Salete	1390
+SP	Santana da Ponte Pensa	1654
+SP	Santana de Parnaíba	100189
+SP	Santo Anastácio	20550
+SP	Santo André	667891
+SP	Santo Antônio da Alegria	6020
+SP	Santo Antônio de Posse	19824
+SP	Santo Antônio do Aracanguá	7034
+SP	Santo Antônio do Jardim	5743
+SP	Santo Antônio do Pinhal	6560
+SP	Santo Expedito	2759
+SP	Santópolis do Aguapeí	4008
+SP	Santos	418288
+SP	São Bento do Sapucaí	10515
+SP	São Bernardo do Campo	781390
+SP	São Caetano do Sul	144857
+SP	São Carlos	212956
+SP	São Francisco	2812
+SP	São João da Boa Vista	79935
+SP	São João das Duas Pontes	2571
+SP	São João de Iracema	1725
+SP	São João do Pau d'Alho	2132
+SP	São Joaquim da Barra	43703
+SP	São José da Bela Vista	8173
+SP	São José do Barreiro	4278
+SP	São José do Rio Pardo	51023
+SP	São José do Rio Preto	402770
+SP	São José dos Campos	594948
+SP	São Lourenço da Serra	16121
+SP	São Luís do Paraitinga	10496
+SP	São Manuel	37797
+SP	São Miguel Arcanjo	30384
+SP	São Paulo	10886518
+SP	São Pedro	29733
+SP	São Pedro do Turvo	7094
+SP	São Roque	65693
+SP	São Sebastião	67348
+SP	São Sebastião da Grama	12509
+SP	São Simão	13781
+SP	São Vicente	323599
+SP	Sarapuí	8158
+SP	Sarutaiá	3680
+SP	Sebastianópolis do Sul	2871
+SP	Serra Azul	9107
+SP	Serra Negra	24671
+SP	Serrana	36596
+SP	Sertãozinho	103558
+SP	Sete Barras	12975
+SP	Severínia	14713
+SP	Silveiras	5562
+SP	Socorro	33080
+SP	Sorocaba	559157
+SP	Sud Mennucci	7714
+SP	Sumaré	228696
+SP	Suzanápolis	3421
+SP	Suzano	268777
+SP	Tabapuã	11255
+SP	Tabatinga	13965
+SP	Taboão da Serra	219200
+SP	Taciba	5402
+SP	Taguaí	9616
+SP	Taiaçu	5804
+SP	Taiúva	5366
+SP	Tambaú	21913
+SP	Tanabi	23400
+SP	Tapiraí	7953
+SP	Tapiratiba	12246
+SP	Taquaral	2827
+SP	Taquaritinga	53232
+SP	Taquarituba	22170
+SP	Taquarivaí	5098
+SP	Tarabai	6108
+SP	Tarumã	12302
+SP	Tatuí	101838
+SP	Taubaté	265514
+SP	Tejupá	5015
+SP	Teodoro Sampaio	20325
+SP	Terra Roxa	8155
+SP	Tietê	34018
+SP	Timburi	2535
+SP	Torre de Pedra	2784
+SP	Torrinha	8918
+SP	Trabiju	1441
+SP	Tremembé	38321
+SP	Três Fronteiras	5031
+SP	Tuiuti	5749
+SP	Tupã	62256
+SP	Tupi Paulista	13712
+SP	Turiúba	1947
+SP	Turmalina	2024
+SP	Ubarana	4552
+SP	Ubatuba	75008
+SP	Ubirajara	4269
+SP	Uchoa	9348
+SP	União Paulista	1436
+SP	Urânia	8727
+SP	Uru	1362
+SP	Urupês	11917
+SP	Valentim Gentil	9408
+SP	Valinhos	97814
+SP	Valparaíso	20827
+SP	Vargem	6883
+SP	Vargem Grande do Sul	37357
+SP	Vargem Grande Paulista	40200
+SP	Várzea Paulista	100406
+SP	Vera Cruz	10020
+SP	Vinhedo	57435
+SP	Viradouro	17043
+SP	Vista Alegre do Alto	6100
+SP	Vitória Brasil	1624
+SP	Votorantim	99901
+SP	Votuporanga	77622
+SP	Zacarias	2229
+PR	Abatiá	7791
+PR	Adrianópolis	6709
+PR	Agudos do Sul	8192
+PR	Almirante Tamandaré	93055
+PR	Altamira do Paraná	4369
+PR	Alto Paraíso	3252
+PR	Alto Paraná	12936
+PR	Alto Piquiri	10210
+PR	Altônia	19904
+PR	Alvorada do Sul	9014
+PR	Amaporã	5140
+PR	Ampére	17067
+PR	Anahy	2868
+PR	Andirá	21330
+PR	Ângulo	2807
+PR	Antonina	17581
+PR	Antônio Olinto	7477
+PR	Apucarana	115323
+PR	Arapongas	96669
+PR	Arapoti	25645
+PR	Arapuã	3945
+PR	Araruna	12650
+PR	Araucária	109943
+PR	Ariranha do Ivaí	2540
+PR	Assaí	16098
+PR	Assis Chateaubriand	32226
+PR	Astorga	24191
+PR	Atalaia	3627
+PR	Balsa Nova	10639
+PR	Bandeirantes	32290
+PR	Barbosa Ferraz	13655
+PR	Barra do Jacaré	2757
+PR	Barracão	9027
+PR	Bela Vista da Caroba	4136
+PR	Bela Vista do Paraíso	14996
+PR	Bituruna	16142
+PR	Boa Esperança	4706
+PR	Boa Esperança do Iguaçu	2866
+PR	Boa Ventura de São Roque	6744
+PR	Boa Vista da Aparecida	7818
+PR	Bocaiúva do Sul	9533
+PR	Bom Jesus do Sul	3835
+PR	Bom Sucesso	6397
+PR	Bom Sucesso do Sul	3061
+PR	Borrazópolis	8275
+PR	Braganey	6044
+PR	Brasilândia do Sul	3306
+PR	Cafeara	2702
+PR	Cafelândia	13065
+PR	Cafezal do Sul	4271
+PR	Califórnia	7546
+PR	Cambará	23956
+PR	Cambé	92888
+PR	Cambira	6862
+PR	Campina da Lagoa	15983
+PR	Campina do Simão	4180
+PR	Campina Grande do Sul	35396
+PR	Campo Bonito	4426
+PR	Campo do Tenente	6461
+PR	Campo Largo	105492
+PR	Campo Magro	22325
+PR	Campo Mourão	82530
+PR	Cândido de Abreu	17775
+PR	Candói	15412
+PR	Cantagalo	12418
+PR	Capanema	18103
+PR	Capitão Leônidas Marques	13616
+PR	Carambeí	16521
+PR	Carlópolis	13170
+PR	Cascavel	285784
+PR	Castro	65363
+PR	Catanduvas	9578
+PR	Centenário do Sul	11247
+PR	Cerro Azul	17693
+PR	Céu Azul	10914
+PR	Chopinzinho	19224
+PR	Cianorte	64498
+PR	Cidade Gaúcha	10468
+PR	Clevelândia	17599
+PR	Colombo	233916
+PR	Colorado	21049
+PR	Congonhinhas	8552
+PR	Conselheiro Mairinck	3554
+PR	Contenda	14800
+PR	Corbélia	15428
+PR	Cornélio Procópio	46931
+PR	Coronel Domingos Soares	7480
+PR	Coronel Vivida	21571
+PR	Corumbataí do Sul	4262
+PR	Cruz Machado	18329
+PR	Cruzeiro do Iguaçu	4150
+PR	Cruzeiro do Oeste	20182
+PR	Cruzeiro do Sul	4493
+PR	Cruzmaltina	3116
+PR	Curitiba	1797408
+PR	Curiúva	14338
+PR	Diamante do Norte	5611
+PR	Diamante do Sul	3665
+PR	Diamante D'Oeste	4944
+PR	Dois Vizinhos	34001
+PR	Douradina	6530
+PR	Doutor Camargo	5609
+PR	Doutor Ulysses	5956
+PR	Enéas Marques	5974
+PR	Engenheiro Beltrão	13867
+PR	Entre Rios do Oeste	3842
+PR	Esperança Nova	1887
+PR	Espigão Alto do Iguaçu	5104
+PR	Farol	3394
+PR	Faxinal	15527
+PR	Fazenda Rio Grande	75006
+PR	Fênix	4871
+PR	Fernandes Pinheiro	5688
+PR	Figueira	8380
+PR	Flor da Serra do Sul	4685
+PR	Floraí	5051
+PR	Floresta	5215
+PR	Florestópolis	11571
+PR	Flórida	2448
+PR	Formosa do Oeste	7532
+PR	Foz do Iguaçu	311336
+PR	Foz do Jordão	5832
+PR	Francisco Alves	6342
+PR	Francisco Beltrão	72409
+PR	General Carneiro	14591
+PR	Godoy Moreira	3568
+PR	Goioerê	28941
+PR	Goioxim	7993
+PR	Grandes Rios	7641
+PR	Guaíra	28683
+PR	Guairaçá	5721
+PR	Guamiranga	7548
+PR	Guapirama	3639
+PR	Guaporema	2190
+PR	Guaraci	4993
+PR	Guaraniaçu	15959
+PR	Guarapuava	164567
+PR	Guaraqueçaba	7732
+PR	Guaratuba	30793
+PR	Honório Serpa	6169
+PR	Ibaiti	28050
+PR	Ibema	5927
+PR	Ibiporã	45158
+PR	Icaraíma	9212
+PR	Iguaraçu	3741
+PR	Iguatu	2286
+PR	Imbaú	11191
+PR	Imbituva	27044
+PR	Inácio Martins	11036
+PR	Inajá	2810
+PR	Indianópolis	4138
+PR	Ipiranga	13993
+PR	Iporã	15086
+PR	Iracema do Oeste	2580
+PR	Irati	54151
+PR	Iretama	11174
+PR	Itaguajé	4508
+PR	Itaipulândia	8581
+PR	Itambaracá	6935
+PR	Itambé	5897
+PR	Itapejara d'Oeste	10537
+PR	Itaperuçu	22021
+PR	Itaúna do Sul	3699
+PR	Ivaí	12840
+PR	Ivaiporã	31344
+PR	Ivaté	7792
+PR	Ivatuba	2715
+PR	Jaboti	5019
+PR	Jacarezinho	39327
+PR	Jaguapitã	11782
+PR	Jaguariaíva	31865
+PR	Jandaia do Sul	19534
+PR	Janiópolis	7032
+PR	Japira	4694
+PR	Japurá	8248
+PR	Jardim Alegre	14315
+PR	Jardim Olinda	1461
+PR	Jataizinho	11244
+PR	Jesuítas	8825
+PR	Joaquim Távora	10247
+PR	Jundiaí do Sul	3654
+PR	Juranda	7684
+PR	Jussara	6090
+PR	Kaloré	4664
+PR	Lapa	41679
+PR	Laranjal	6322
+PR	Laranjeiras do Sul	30481
+PR	Leópolis	4230
+PR	Lidianópolis	4123
+PR	Lindoeste	5446
+PR	Loanda	19464
+PR	Lobato	4219
+PR	Londrina	497833
+PR	Luiziana	7204
+PR	Lunardelli	5082
+PR	Lupionópolis	4375
+PR	Mallet	12414
+PR	Mamborê	14132
+PR	Mandaguaçu	18259
+PR	Mandaguari	31890
+PR	Mandirituba	20408
+PR	Manfrinópolis	3306
+PR	Mangueirinha	17119
+PR	Manoel Ribas	12762
+PR	Marechal Cândido Rondon	44562
+PR	Maria Helena	6012
+PR	Marialva	30017
+PR	Marilândia do Sul	8932
+PR	Marilena	6541
+PR	Mariluz	10461
+PR	Maringá	325968
+PR	Mariópolis	5805
+PR	Maripá	5571
+PR	Marmeleiro	13156
+PR	Marquinho	5205
+PR	Marumbi	4142
+PR	Matelândia	15404
+PR	Matinhos	23357
+PR	Mato Rico	4156
+PR	Mauá da Serra	7814
+PR	Medianeira	38397
+PR	Mercedes	4713
+PR	Mirador	2336
+PR	Miraselva	1899
+PR	Missal	10412
+PR	Moreira Sales	12926
+PR	Morretes	16198
+PR	Munhoz de Melo	3552
+PR	Nossa Senhora das Graças	3903
+PR	Nova Aliança do Ivaí	1377
+PR	Nova América da Colina	3298
+PR	Nova Aurora	11753
+PR	Nova Cantu	7795
+PR	Nova Esperança	25719
+PR	Nova Esperança do Sudoeste	5182
+PR	Nova Fátima	8054
+PR	Nova Laranjeiras	11302
+PR	Nova Londrina	12619
+PR	Nova Olímpia	5227
+PR	Nova Prata do Iguaçu	10452
+PR	Nova Santa Bárbara	3802
+PR	Nova Santa Rosa	7582
+PR	Nova Tebas	8317
+PR	Novo Itacolomi	2747
+PR	Ortigueira	24397
+PR	Ourizona	3296
+PR	Ouro Verde do Oeste	5465
+PR	Paiçandu	34640
+PR	Palmas	40485
+PR	Palmeira	31234
+PR	Palmital	15454
+PR	Palotina	27545
+PR	Paraíso do Norte	11169
+PR	Paranacity	9513
+PR	Paranaguá	133559
+PR	Paranapoema	2656
+PR	Paranavaí	79110
+PR	Pato Bragado	4631
+PR	Pato Branco	66680
+PR	Paula Freitas	5457
+PR	Paulo Frontin	7032
+PR	Peabiru	13029
+PR	Perobal	5055
+PR	Pérola	9334
+PR	Pérola d'Oeste	7046
+PR	Piên	11083
+PR	Pinhais	112038
+PR	Pinhal de São Bento	2524
+PR	Pinhalão	5893
+PR	Pinhão	29113
+PR	Piraí do Sul	23170
+PR	Piraquara	82006
+PR	Pitanga	34310
+PR	Pitangueiras	2664
+PR	Planaltina do Paraná	3791
+PR	Planalto	13649
+PR	Ponta Grossa	306351
+PR	Pontal do Paraná	16625
+PR	Porecatu	14174
+PR	Porto Amazonas	4212
+PR	Porto Barreiro	3761
+PR	Porto Rico	2462
+PR	Porto Vitória	3779
+PR	Prado Ferreira	3344
+PR	Pranchita	5811
+PR	Presidente Castelo Branco	4674
+PR	Primeiro de Maio	10753
+PR	Prudentópolis	48708
+PR	Quarto Centenário	4848
+PR	Quatiguá	6877
+PR	Quatro Barras	18125
+PR	Quatro Pontes	3669
+PR	Quedas do Iguaçu	30181
+PR	Querência do Norte	11804
+PR	Quinta do Sol	5173
+PR	Quitandinha	15897
+PR	Ramilândia	4147
+PR	Rancho Alegre	4001
+PR	Rancho Alegre D'Oeste	2928
+PR	Realeza	15809
+PR	Rebouças	14053
+PR	Renascença	6762
+PR	Reserva	24249
+PR	Reserva do Iguaçu	7094
+PR	Ribeirão Claro	10882
+PR	Ribeirão do Pinhal	13389
+PR	Rio Azul	13248
+PR	Rio Bom	3260
+PR	Rio Bonito do Iguaçu	14450
+PR	Rio Branco do Ivaí	3850
+PR	Rio Branco do Sul	31486
+PR	Rio Negro	29862
+PR	Rolândia	53437
+PR	Roncador	12265
+PR	Rondon	9023
+PR	Rosário do Ivaí	5823
+PR	Sabáudia	5447
+PR	Salgado Filho	4666
+PR	Salto do Itararé	5087
+PR	Salto do Lontra	12480
+PR	Santa Amélia	4062
+PR	Santa Cecília do Pavão	3676
+PR	Santa Cruz de Monte Castelo	7924
+PR	Santa Fé	9774
+PR	Santa Helena	22794
+PR	Santa Inês	1878
+PR	Santa Isabel do Ivaí	8509
+PR	Santa Izabel do Oeste	11434
+PR	Santa Lúcia	3725
+PR	Santa Maria do Oeste	11548
+PR	Santa Mariana	11992
+PR	Santa Mônica	3453
+PR	Santa Tereza do Oeste	9378
+PR	Santa Terezinha de Itaipu	19552
+PR	Santana do Itararé	5537
+PR	Santo Antônio da Platina	40480
+PR	Santo Antônio do Caiuá	2692
+PR	Santo Antônio do Paraíso	2354
+PR	Santo Antônio do Sudoeste	18565
+PR	Santo Inácio	4876
+PR	São Carlos do Ivaí	5817
+PR	São Jerônimo da Serra	11563
+PR	São João	10900
+PR	São João do Caiuá	5979
+PR	São João do Ivaí	11854
+PR	São João do Triunfo	13611
+PR	São Jorge do Ivaí	5286
+PR	São Jorge do Patrocínio	6031
+PR	São Jorge d'Oeste	8979
+PR	São José da Boa Vista	6293
+PR	São José das Palmeiras	3873
+PR	São José dos Pinhais	263622
+PR	São Manoel do Paraná	2093
+PR	São Mateus do Sul	39152
+PR	São Miguel do Iguaçu	25341
+PR	São Pedro do Iguaçu	6540
+PR	São Pedro do Ivaí	9569
+PR	São Pedro do Paraná	2532
+PR	São Sebastião da Amoreira	8681
+PR	São Tomé	5279
+PR	Sapopema	6638
+PR	Sarandi	79686
+PR	Saudade do Iguaçu	4931
+PR	Sengés	19356
+PR	Serranópolis do Iguaçu	4327
+PR	Sertaneja	5894
+PR	Sertanópolis	15485
+PR	Siqueira Campos	16663
+PR	Sulina	3445
+PR	Tamarana	10887
+PR	Tamboara	4564
+PR	Tapejara	14498
+PR	Tapira	5829
+PR	Teixeira Soares	9781
+PR	Telêmaco Borba	65797
+PR	Terra Boa	14588
+PR	Terra Rica	14405
+PR	Terra Roxa	16208
+PR	Tibagi	18710
+PR	Tijucas do Sul	13091
+PR	Toledo	109857
+PR	Tomazina	8814
+PR	Três Barras do Paraná	11718
+PR	Tunas do Paraná	5921
+PR	Tuneiras do Oeste	8598
+PR	Tupãssi	7755
+PR	Turvo	14025
+PR	Ubiratã	21214
+PR	Umuarama	95153
+PR	União da Vitória	51043
+PR	Uniflor	2402
+PR	Uraí	11489
+PR	Ventania	10275
+PR	Vera Cruz do Oeste	9099
+PR	Verê	8002
+PR	Virmond	4024
+PR	Vitorino	6310
+PR	Wenceslau Braz	18691
+PR	Xambrê	5818
+SC	Abdon Batista	2726
+SC	Abelardo Luz	16374
+SC	Agrolândia	9080
+SC	Agronômica	4677
+SC	Água Doce	6756
+SC	Águas de Chapecó	6086
+SC	Águas Frias	2551
+SC	Águas Mornas	4410
+SC	Alfredo Wagner	9754
+SC	Alto Bela Vista	2021
+SC	Anchieta	6587
+SC	Angelina	5322
+SC	Anita Garibaldi	9141
+SC	Anitápolis	3175
+SC	Antônio Carlos	7087
+SC	Apiúna	10270
+SC	Arabutã	3962
+SC	Araquari	21278
+SC	Araranguá	57119
+SC	Armazém	7312
+SC	Arroio Trinta	3516
+SC	Arvoredo	2193
+SC	Ascurra	6761
+SC	Atalanta	3317
+SC	Aurora	5399
+SC	Balneário Arroio do Silva	8089
+SC	Balneário Barra do Sul	7278
+SC	Balneário Camboriú	94344
+SC	Balneário Gaivota	7307
+SC	Balneário Piçarras	13760
+SC	Bandeirante	3028
+SC	Barra Bonita	2064
+SC	Barra Velha	18575
+SC	Bela Vista do Toldo	5909
+SC	Belmonte	2681
+SC	Benedito Novo	9841
+SC	Biguaçu	53444
+SC	Blumenau	292972
+SC	Bocaina do Sul	3047
+SC	Bom Jardim da Serra	4214
+SC	Bom Jesus	2296
+SC	Bom Jesus do Oeste	2026
+SC	Bom Retiro	8258
+SC	Bombinhas	12456
+SC	Botuverá	4127
+SC	Braço do Norte	27730
+SC	Braço do Trombudo	3288
+SC	Brunópolis	2934
+SC	Brusque	94962
+SC	Caçador	67556
+SC	Caibi	6217
+SC	Calmon	4012
+SC	Camboriú	53388
+SC	Campo Alegre	11391
+SC	Campo Belo do Sul	7968
+SC	Campo Erê	9590
+SC	Campos Novos	28447
+SC	Canelinha	9696
+SC	Canoinhas	52677
+SC	Capão Alto	3210
+SC	Capinzal	18465
+SC	Capivari de Baixo	20064
+SC	Catanduvas	8733
+SC	Caxambu do Sul	4885
+SC	Celso Ramos	2671
+SC	Cerro Negro	3948
+SC	Chapadão do Lageado	2749
+SC	Chapecó	164803
+SC	Cocal do Sul	14563
+SC	Concórdia	67249
+SC	Cordilheira Alta	3361
+SC	Coronel Freitas	10246
+SC	Coronel Martins	2481
+SC	Correia Pinto	14838
+SC	Corupá	12758
+SC	Criciúma	185506
+SC	Cunha Porã	10638
+SC	Cunhataí	1874
+SC	Curitibanos	37493
+SC	Descanso	8705
+SC	Dionísio Cerqueira	14792
+SC	Dona Emma	3441
+SC	Doutor Pedrinho	3294
+SC	Entre Rios	2979
+SC	Ermo	1843
+SC	Erval Velho	4098
+SC	Faxinal dos Guedes	10339
+SC	Flor do Sertão	1640
+SC	Florianópolis	396723
+SC	Formosa do Sul	2620
+SC	Forquilhinha	20719
+SC	Fraiburgo	34889
+SC	Frei Rogério	2655
+SC	Galvão	3493
+SC	Garopaba	16399
+SC	Garuva	13393
+SC	Gaspar	52428
+SC	Governador Celso Ramos	12175
+SC	Grão Pará	6051
+SC	Gravatal	10510
+SC	Guabiruba	16095
+SC	Guaraciaba	10604
+SC	Guaramirim	29932
+SC	Guarujá do Sul	4722
+SC	Guatambú	4505
+SC	Herval d'Oeste	18942
+SC	Ibiam	1987
+SC	Ibicaré	3390
+SC	Ibirama	16716
+SC	Içara	54107
+SC	Ilhota	11552
+SC	Imaruí	11675
+SC	Imbituba	36231
+SC	Imbuia	5501
+SC	Indaial	47686
+SC	Iomerê	2558
+SC	Ipira	4705
+SC	Iporã do Oeste	8091
+SC	Ipuaçu	6566
+SC	Ipumirim	7118
+SC	Iraceminha	4261
+SC	Irani	9313
+SC	Irati	2025
+SC	Irineópolis	10287
+SC	Itá	6417
+SC	Itaiópolis	19752
+SC	Itajaí	163218
+SC	Itapema	33766
+SC	Itapiranga	15238
+SC	Itapoá	10719
+SC	Ituporanga	20577
+SC	Jaborá	4032
+SC	Jacinto Machado	10738
+SC	Jaguaruna	15668
+SC	Jaraguá do Sul	129973
+SC	Jardinópolis	1851
+SC	Joaçaba	24435
+SC	Joinville	487003
+SC	José Boiteux	4840
+SC	Jupiá	2134
+SC	Lacerdópolis	2190
+SC	Lages	161583
+SC	Laguna	50179
+SC	Lajeado Grande	1461
+SC	Laurentino	5483
+SC	Lauro Muller	13700
+SC	Lebon Régis	11735
+SC	Leoberto Leal	3589
+SC	Lindóia do Sul	4560
+SC	Lontras	9180
+SC	Luiz Alves	8986
+SC	Luzerna	5391
+SC	Macieira	1760
+SC	Mafra	51014
+SC	Major Gercino	2842
+SC	Major Vieira	7337
+SC	Maracajá	5909
+SC	Maravilha	21684
+SC	Marema	2282
+SC	Massaranduba	13777
+SC	Matos Costa	2818
+SC	Meleiro	6880
+SC	Mirim Doce	2545
+SC	Modelo	3772
+SC	Mondaí	9126
+SC	Monte Carlo	8854
+SC	Monte Castelo	8113
+SC	Morro da Fumaça	15426
+SC	Morro Grande	2727
+SC	Navegantes	52638
+SC	Nova Erechim	4118
+SC	Nova Itaberaba	4117
+SC	Nova Trento	11325
+SC	Nova Veneza	12536
+SC	Novo Horizonte	2902
+SC	Orleans	20859
+SC	Otacílio Costa	15693
+SC	Ouro	7095
+SC	Ouro Verde	2152
+SC	Paial	1821
+SC	Painel	2297
+SC	Palhoça	122471
+SC	Palma Sola	7942
+SC	Palmeira	2334
+SC	Palmitos	16061
+SC	Papanduva	17056
+SC	Paraíso	4195
+SC	Passo de Torres	5313
+SC	Passos Maia	4472
+SC	Paulo Lopes	6830
+SC	Pedras Grandes	4817
+SC	Penha	20868
+SC	Peritiba	2944
+SC	Petrolândia	6064
+SC	Pinhalzinho	14691
+SC	Pinheiro Preto	2912
+SC	Piratuba	4570
+SC	Planalto Alegre	2639
+SC	Pomerode	25261
+SC	Ponte Alta	5080
+SC	Ponte Alta do Norte	3500
+SC	Ponte Serrada	11210
+SC	Porto Belo	13301
+SC	Porto União	32256
+SC	Pouso Redondo	13722
+SC	Praia Grande	7120
+SC	Presidente Castello Branco	1757
+SC	Presidente Getúlio	13651
+SC	Presidente Nereu	2259
+SC	Princesa	2604
+SC	Quilombo	10871
+SC	Rancho Queimado	2772
+SC	Rio das Antas	6054
+SC	Rio do Campo	6043
+SC	Rio do Oeste	6795
+SC	Rio do Sul	56919
+SC	Rio dos Cedros	9685
+SC	Rio Fortuna	4468
+SC	Rio Negrinho	42237
+SC	Rio Rufino	2433
+SC	Riqueza	4998
+SC	Rodeio	10773
+SC	Romelândia	5738
+SC	Salete	7432
+SC	Saltinho	4072
+SC	Salto Veloso	4172
+SC	Sangão	10300
+SC	Santa Cecília	15311
+SC	Santa Helena	2437
+SC	Santa Rosa de Lima	2031
+SC	Santa Rosa do Sul	7949
+SC	Santa Terezinha	9025
+SC	Santa Terezinha do Progresso	3044
+SC	Santiago do Sul	1450
+SC	Santo Amaro da Imperatriz	17602
+SC	São Bento do Sul	72548
+SC	São Bernardino	2653
+SC	São Bonifácio	3178
+SC	São Carlos	10372
+SC	São Cristovão do Sul	4850
+SC	São Domingos	9346
+SC	São Francisco do Sul	37613
+SC	São João Batista	22089
+SC	São João do Itaperiú	3289
+SC	São João do Oeste	6020
+SC	São João do Sul	6916
+SC	São Joaquim	24058
+SC	São José	196887
+SC	São José do Cedro	13699
+SC	São José do Cerrito	10304
+SC	São Lourenço do Oeste	21799
+SC	São Ludgero	10246
+SC	São Martinho	3194
+SC	São Miguel da Boa Vista	1972
+SC	São Miguel do Oeste	33806
+SC	São Pedro de Alcântara	4765
+SC	Saudades	8587
+SC	Schroeder	12776
+SC	Seara	17121
+SC	Serra Alta	3200
+SC	Siderópolis	12470
+SC	Sombrio	24424
+SC	Sul Brasil	3061
+SC	Taió	16838
+SC	Tangará	8410
+SC	Tigrinhos	1741
+SC	Tijucas	27944
+SC	Timbé do Sul	5133
+SC	Timbó	33326
+SC	Timbó Grande	6979
+SC	Três Barras	17937
+SC	Treviso	3498
+SC	Treze de Maio	6599
+SC	Treze Tílias	5641
+SC	Trombudo Central	6221
+SC	Tubarão	92569
+SC	Tunápolis	4650
+SC	Turvo	11031
+SC	União do Oeste	3058
+SC	Urubici	10439
+SC	Urupema	2501
+SC	Urussanga	18588
+SC	Vargeão	3560
+SC	Vargem	3110
+SC	Vargem Bonita	4321
+SC	Vidal Ramos	5981
+SC	Videira	44479
+SC	Vitor Meireles	5563
+SC	Witmarsum	3431
+SC	Xanxerê	40228
+SC	Xavantina	4218
+SC	Xaxim	24318
+SC	Zortéa	2868
+RS	Aceguá	4138
+RS	Água Santa	3565
+RS	Agudo	16714
+RS	Ajuricaba	7261
+RS	Alecrim	7357
+RS	Alegrete	78188
+RS	Alegria	4789
+RS	Almirante Tamandaré do Sul	2158
+RS	Alpestre	8972
+RS	Alto Alegre	1940
+RS	Alto Feliz	2934
+RS	Alvorada	207142
+RS	Amaral Ferrador	6232
+RS	Ametista do Sul	8058
+RS	André da Rocha	1206
+RS	Anta Gorda	6163
+RS	Antônio Prado	13591
+RS	Arambaré	3825
+RS	Araricá	4781
+RS	Aratiba	6616
+RS	Arroio do Meio	18079
+RS	Arroio do Padre	2734
+RS	Arroio do Sal	6635
+RS	Arroio do Tigre	12638
+RS	Arroio dos Ratos	13619
+RS	Arroio Grande	18358
+RS	Arvorezinha	10210
+RS	Augusto Pestana	7273
+RS	Áurea	3715
+RS	Bagé	112550
+RS	Balneário Pinhal	10517
+RS	Barão	5293
+RS	Barão de Cotegipe	6519
+RS	Barão do Triunfo	6924
+RS	Barra do Guarita	2969
+RS	Barra do Quaraí	3776
+RS	Barra do Ribeiro	11478
+RS	Barra do Rio Azul	2035
+RS	Barra Funda	2338
+RS	Barracão	5306
+RS	Barros Cassal	11450
+RS	Benjamin Constant do Sul	2256
+RS	Bento Gonçalves	100643
+RS	Boa Vista das Missões	2066
+RS	Boa Vista do Buricá	6468
+RS	Boa Vista do Cadeado	2447
+RS	Boa Vista do Incra	2447
+RS	Boa Vista do Sul	2663
+RS	Bom Jesus	11843
+RS	Bom Princípio	10910
+RS	Bom Progresso	2441
+RS	Bom Retiro do Sul	11130
+RS	Boqueirão do Leão	7825
+RS	Bossoroca	7652
+RS	Bozano	2296
+RS	Braga	3826
+RS	Brochier	4701
+RS	Butiá	19717
+RS	Caçapava do Sul	32574
+RS	Cacequi	13629
+RS	Cachoeira do Sul	84629
+RS	Cachoeirinha	112603
+RS	Cacique Doble	4824
+RS	Caibaté	5080
+RS	Caiçara	5184
+RS	Camaquã	60563
+RS	Camargo	2471
+RS	Cambará do Sul	6959
+RS	Campestre da Serra	3205
+RS	Campina das Missões	6342
+RS	Campinas do Sul	5588
+RS	Campo Bom	56595
+RS	Campo Novo	5581
+RS	Campos Borges	3564
+RS	Candelária	29444
+RS	Cândido Godói	6634
+RS	Candiota	8236
+RS	Canela	38315
+RS	Canguçu	53547
+RS	Canoas	326458
+RS	Canudos do Vale	1941
+RS	Capão Bonito do Sul	1837
+RS	Capão da Canoa	37405
+RS	Capão do Cipó	3180
+RS	Capão do Leão	23655
+RS	Capela de Santana	10950
+RS	Capitão	2595
+RS	Capivari do Sul	3339
+RS	Caraá	7131
+RS	Carazinho	58196
+RS	Carlos Barbosa	23960
+RS	Carlos Gomes	1719
+RS	Casca	8381
+RS	Caseiros	2989
+RS	Catuípe	9499
+RS	Caxias do Sul	399038
+RS	Centenário	3031
+RS	Cerrito	6629
+RS	Cerro Branco	4465
+RS	Cerro Grande	2577
+RS	Cerro Grande do Sul	9233
+RS	Cerro Largo	12484
+RS	Chapada	9440
+RS	Charqueadas	33708
+RS	Charrua	3581
+RS	Chiapetta	4078
+RS	Chuí	5278
+RS	Chuvisca	4874
+RS	Cidreira	10883
+RS	Ciríaco	4945
+RS	Colinas	2404
+RS	Colorado	3744
+RS	Condor	6607
+RS	Constantina	9842
+RS	Coqueiro Baixo	1566
+RS	Coqueiros do Sul	3106
+RS	Coronel Barros	2441
+RS	Coronel Bicaco	7873
+RS	Coronel Pilar	1658
+RS	Cotiporã	4577
+RS	Coxilha	2916
+RS	Crissiumal	14726
+RS	Cristal	7026
+RS	Cristal do Sul	2967
+RS	Cruz Alta	63450
+RS	Cruzaltense	2273
+RS	Cruzeiro do Sul	12171
+RS	David Canabarro	4704
+RS	Derrubadas	3378
+RS	Dezesseis de Novembro	2968
+RS	Dilermando de Aguiar	3129
+RS	Dois Irmãos	24815
+RS	Dois Irmãos das Missões	2362
+RS	Dois Lajeados	3334
+RS	Dom Feliciano	14504
+RS	Dom Pedrito	38148
+RS	Dom Pedro de Alcântara	2728
+RS	Dona Francisca	3572
+RS	Doutor Maurício Cardoso	5494
+RS	Doutor Ricardo	2053
+RS	Eldorado do Sul	31316
+RS	Encantado	19536
+RS	Encruzilhada do Sul	24152
+RS	Engenho Velho	1584
+RS	Entre Rios do Sul	3101
+RS	Entre-Ijuís	9126
+RS	Erebango	2881
+RS	Erechim	92945
+RS	Ernestina	3010
+RS	Erval Grande	5294
+RS	Erval Seco	8212
+RS	Esmeralda	3234
+RS	Esperança do Sul	3445
+RS	Espumoso	14991
+RS	Estação	6086
+RS	Estância Velha	40740
+RS	Esteio	78816
+RS	Estrela	29071
+RS	Estrela Velha	3659
+RS	Eugênio de Castro	3057
+RS	Fagundes Varela	2508
+RS	Farroupilha	59871
+RS	Faxinal do Soturno	6343
+RS	Faxinalzinho	2613
+RS	Fazenda Vilanova	3068
+RS	Feliz	11679
+RS	Flores da Cunha	25307
+RS	Floriano Peixoto	2148
+RS	Fontoura Xavier	11074
+RS	Formigueiro	7116
+RS	Forquetinha	2548
+RS	Fortaleza dos Valos	4597
+RS	Frederico Westphalen	27308
+RS	Garibaldi	28791
+RS	Garruchos	3457
+RS	Gaurama	6108
+RS	General Câmara	8782
+RS	Gentil	1579
+RS	Getúlio Vargas	15961
+RS	Giruá	17070
+RS	Glorinha	6908
+RS	Gramado	31655
+RS	Gramado dos Loureiros	2370
+RS	Gramado Xavier	3911
+RS	Gravataí	261150
+RS	Guabiju	1669
+RS	Guaíba	93578
+RS	Guaporé	21421
+RS	Guarani das Missões	8331
+RS	Harmonia	3658
+RS	Herval	6873
+RS	Herveiras	2825
+RS	Horizontina	18305
+RS	Hulha Negra	6030
+RS	Humaitá	4923
+RS	Ibarama	4331
+RS	Ibiaçá	4681
+RS	Ibiraiaras	7094
+RS	Ibirapuitã	4182
+RS	Ibirubá	18690
+RS	Igrejinha	31113
+RS	Ijuí	76739
+RS	Ilópolis	4202
+RS	Imbé	14940
+RS	Imigrante	3013
+RS	Independência	6679
+RS	Inhacorá	2290
+RS	Ipê	5875
+RS	Ipiranga do Sul	1983
+RS	Iraí	8468
+RS	Itaara	4633
+RS	Itacurubi	3568
+RS	Itapuca	2454
+RS	Itaqui	36361
+RS	Itati	2677
+RS	Itatiba do Sul	4574
+RS	Ivorá	2378
+RS	Ivoti	18517
+RS	Jaboticaba	4173
+RS	Jacuizinho	2619
+RS	Jacutinga	3567
+RS	Jaguarão	27944
+RS	Jaguari	11626
+RS	Jaquirana	4404
+RS	Jari	3692
+RS	Jóia	8279
+RS	Júlio de Castilhos	19541
+RS	Lagoa Bonita do Sul	2617
+RS	Lagoa dos Três Cantos	1590
+RS	Lagoa Vermelha	27434
+RS	Lagoão	6389
+RS	Lajeado	67476
+RS	Lajeado do Bugre	2536
+RS	Lavras do Sul	8115
+RS	Liberato Salzano	6102
+RS	Lindolfo Collor	5279
+RS	Linha Nova	1488
+RS	Maçambara	4415
+RS	Machadinho	5503
+RS	Mampituba	2926
+RS	Manoel Viana	6784
+RS	Maquiné	7374
+RS	Maratá	2444
+RS	Marau	33778
+RS	Marcelino Ramos	5372
+RS	Mariana Pimentel	3964
+RS	Mariano Moro	2284
+RS	Marques de Souza	4043
+RS	Mata	5291
+RS	Mato Castelhano	2608
+RS	Mato Leitão	3585
+RS	Mato Queimado	1865
+RS	Maximiliano de Almeida	5059
+RS	Minas do Leão	7728
+RS	Miraguaí	4869
+RS	Montauri	1583
+RS	Monte Alegre dos Campos	3122
+RS	Monte Belo do Sul	2766
+RS	Montenegro	56790
+RS	Mormaço	2578
+RS	Morrinhos do Sul	3241
+RS	Morro Redondo	6199
+RS	Morro Reuter	5599
+RS	Mostardas	11903
+RS	Muçum	4574
+RS	Muitos Capões	2969
+RS	Muliterno	1800
+RS	Não-Me-Toque	15228
+RS	Nicolau Vergueiro	1759
+RS	Nonoai	12327
+RS	Nova Alvorada	3058
+RS	Nova Araçá	3775
+RS	Nova Bassano	8683
+RS	Nova Boa Vista	2083
+RS	Nova Bréscia	3162
+RS	Nova Candelária	2739
+RS	Nova Esperança do Sul	4775
+RS	Nova Hartz	16688
+RS	Nova Pádua	2484
+RS	Nova Palma	6432
+RS	Nova Petrópolis	17747
+RS	Nova Prata	22257
+RS	Nova Ramada	2461
+RS	Nova Roma do Sul	3490
+RS	Nova Santa Rita	20591
+RS	Novo Barreiro	3858
+RS	Novo Cabrais	3766
+RS	Novo Hamburgo	253067
+RS	Novo Machado	4246
+RS	Novo Tiradentes	2331
+RS	Novo Xingu	1858
+RS	Osório	39290
+RS	Paim Filho	4480
+RS	Palmares do Sul	11423
+RS	Palmeira das Missões	33846
+RS	Palmitinho	6905
+RS	Panambi	36360
+RS	Pantano Grande	9816
+RS	Paraí	6577
+RS	Paraíso do Sul	7348
+RS	Pareci Novo	3151
+RS	Parobé	48713
+RS	Passa Sete	4996
+RS	Passo do Sobrado	5967
+RS	Passo Fundo	183300
+RS	Paulo Bento	2090
+RS	Paverama	7616
+RS	Pedras Altas	2546
+RS	Pedro Osório	8039
+RS	Pejuçara	3900
+RS	Pelotas	339934
+RS	Picada Café	4824
+RS	Pinhal	2362
+RS	Pinhal da Serra	2058
+RS	Pinhal Grande	4496
+RS	Pinheirinho do Vale	4411
+RS	Pinheiro Machado	12939
+RS	Pirapó	2988
+RS	Piratini	20225
+RS	Planalto	10589
+RS	Poço das Antas	1976
+RS	Pontão	3904
+RS	Ponte Preta	1840
+RS	Portão	28583
+RS	Porto Alegre	1420667
+RS	Porto Lucena	5631
+RS	Porto Mauá	2565
+RS	Porto Vera Cruz	2084
+RS	Porto Xavier	10857
+RS	Pouso Novo	2017
+RS	Presidente Lucena	2355
+RS	Progresso	6210
+RS	Protásio Alves	2114
+RS	Putinga	4192
+RS	Quaraí	22552
+RS	Quatro Irmãos	1735
+RS	Quevedos	2732
+RS	Quinze de Novembro	3561
+RS	Redentora	9600
+RS	Relvado	2196
+RS	Restinga Seca	15595
+RS	Rio dos Índios	4202
+RS	Rio Grande	194351
+RS	Rio Pardo	37704
+RS	Riozinho	4406
+RS	Roca Sales	9922
+RS	Rodeio Bonito	5698
+RS	Rolador	2795
+RS	Rolante	19213
+RS	Ronda Alta	9654
+RS	Rondinha	5674
+RS	Roque Gonzales	7297
+RS	Rosário do Sul	40510
+RS	Sagrada Família	2595
+RS	Saldanha Marinho	2982
+RS	Salto do Jacuí	12154
+RS	Salvador das Missões	2601
+RS	Salvador do Sul	6644
+RS	Sananduva	14714
+RS	Santa Bárbara do Sul	9122
+RS	Santa Cecília do Sul	1716
+RS	Santa Clara do Sul	5471
+RS	Santa Cruz do Sul	115857
+RS	Santa Margarida do Sul	2163
+RS	Santa Maria	263403
+RS	Santa Maria do Herval	6173
+RS	Santa Rosa	64113
+RS	Santa Tereza	1815
+RS	Santa Vitória do Palmar	31183
+RS	Santana da Boa Vista	8599
+RS	Santana do Livramento	83478
+RS	Santiago	49558
+RS	Santo Ângelo	73800
+RS	Santo Antônio da Patrulha	37910
+RS	Santo Antônio das Missões	11863
+RS	Santo Antônio do Palma	2216
+RS	Santo Antônio do Planalto	2029
+RS	Santo Augusto	13622
+RS	Santo Cristo	14280
+RS	Santo Expedito do Sul	2614
+RS	São Borja	61834
+RS	São Domingos do Sul	2854
+RS	São Francisco de Assis	19523
+RS	São Francisco de Paula	21278
+RS	São Gabriel	57978
+RS	São Jerônimo	20506
+RS	São João da Urtiga	4946
+RS	São João do Polêsine	2702
+RS	São Jorge	2764
+RS	São José das Missões	2952
+RS	São José do Herval	2479
+RS	São José do Hortêncio	3883
+RS	São José do Inhacorá	2132
+RS	São José do Norte	24905
+RS	São José do Ouro	6973
+RS	São José do Sul	1899
+RS	São José dos Ausentes	3180
+RS	São Leopoldo	207721
+RS	São Lourenço do Sul	42339
+RS	São Luiz Gonzaga	34487
+RS	São Marcos	19641
+RS	São Martinho	5853
+RS	São Martinho da Serra	3409
+RS	São Miguel das Missões	7382
+RS	São Nicolau	5909
+RS	São Paulo das Missões	6690
+RS	São Pedro da Serra	3117
+RS	São Pedro das Missões	1939
+RS	São Pedro do Butiá	2744
+RS	São Pedro do Sul	16613
+RS	São Sebastião do Caí	20359
+RS	São Sepé	23787
+RS	São Valentim	3919
+RS	São Valentim do Sul	2233
+RS	São Valério do Sul	2635
+RS	São Vendelino	1794
+RS	São Vicente do Sul	8361
+RS	Sapiranga	73979
+RS	Sapucaia do Sul	122231
+RS	Sarandi	20415
+RS	Seberi	10870
+RS	Sede Nova	2968
+RS	Segredo	7022
+RS	Selbach	4773
+RS	Senador Salgado Filho	2861
+RS	Sentinela do Sul	5290
+RS	Serafina Corrêa	13463
+RS	Sério	2399
+RS	Sertão	6663
+RS	Sertão Santana	5791
+RS	Sete de Setembro	2131
+RS	Severiano de Almeida	3907
+RS	Silveira Martins	2479
+RS	Sinimbu	10315
+RS	Sobradinho	14162
+RS	Soledade	29926
+RS	Tabaí	4046
+RS	Tapejara	17500
+RS	Tapera	10457
+RS	Tapes	16557
+RS	Taquara	53428
+RS	Taquari	25768
+RS	Taquaruçu do Sul	2849
+RS	Tavares	5160
+RS	Tenente Portela	13906
+RS	Terra de Areia	9709
+RS	Teutônia	25105
+RS	Tio Hugo	2593
+RS	Tiradentes do Sul	6928
+RS	Toropi	3070
+RS	Torres	32358
+RS	Tramandaí	39891
+RS	Travesseiro	2379
+RS	Três Arroios	3015
+RS	Três Cachoeiras	10390
+RS	Três Coroas	22905
+RS	Três de Maio	23333
+RS	Três Forquilhas	3073
+RS	Três Palmeiras	4388
+RS	Três Passos	23467
+RS	Trindade do Sul	5905
+RS	Triunfo	23976
+RS	Tucunduva	5907
+RS	Tunas	4378
+RS	Tupanci do Sul	1723
+RS	Tupanciretã	22556
+RS	Tupandi	3604
+RS	Tuparendi	8793
+RS	Turuçu	3829
+RS	Ubiretama	2440
+RS	União da Serra	1666
+RS	Unistalda	2392
+RS	Uruguaiana	123743
+RS	Vacaria	59938
+RS	Vale do Sol	10817
+RS	Vale Real	4741
+RS	Vale Verde	3227
+RS	Vanini	1956
+RS	Venâncio Aires	64442
+RS	Vera Cruz	22702
+RS	Veranópolis	23904
+RS	Vespasiano Correa	1973
+RS	Viadutos	5663
+RS	Viamão	253264
+RS	Vicente Dutra	5569
+RS	Victor Graeff	3080
+RS	Vila Flores	3169
+RS	Vila Lângaro	2230
+RS	Vila Maria	4159
+RS	Vila Nova do Sul	4255
+RS	Vista Alegre	2871
+RS	Vista Alegre do Prata	1492
+RS	Vista Gaúcha	2713
+RS	Vitória das Missões	3652
+RS	Westfalia	2716
+RS	Xangri-lá	10602
+MS	Água Clara	13183
+MS	Alcinópolis	4299
+MS	Amambaí	33426
+MS	Anastácio	22364
+MS	Anaurilândia	8380
+MS	Angélica	7253
+MS	Antônio João	8350
+MS	Aparecida do Taboado	19819
+MS	Aquidauana	44920
+MS	Aral Moreira	9236
+MS	Bandeirantes	5888
+MS	Bataguassu	18687
+MS	Batayporã	10564
+MS	Bela Vista	22868
+MS	Bodoquena	8168
+MS	Bonito	17275
+MS	Brasilândia	12136
+MS	Caarapó	22723
+MS	Camapuã	13192
+MS	Campo Grande	724524
+MS	Caracol	5095
+MS	Cassilândia	20916
+MS	Chapadão do Sul	16193
+MS	Corguinho	4165
+MS	Coronel Sapucaia	13979
+MS	Corumbá	96373
+MS	Costa Rica	18277
+MS	Coxim	31816
+MS	Deodápolis	11261
+MS	Dois Irmãos do Buriti	9350
+MS	Douradina	4900
+MS	Dourados	181869
+MS	Eldorado	11934
+MS	Fátima do Sul	18789
+MS	Figueirão	3280
+MS	Glória de Dourados	9644
+MS	Guia Lopes da Laguna	10208
+MS	Iguatemi	14632
+MS	Inocência	7342
+MS	Itaporã	18605
+MS	Itaquiraí	16924
+MS	Ivinhema	20567
+MS	Japorã	7362
+MS	Jaraguari	5577
+MS	Jardim	23341
+MS	Jateí	3808
+MS	Juti	5353
+MS	Ladário	17906
+MS	Laguna Carapã	5813
+MS	Maracaju	30912
+MS	Miranda	23965
+MS	Mundo Novo	15968
+MS	Naviraí	43391
+MS	Nioaque	15203
+MS	Nova Alvorada do Sul	12026
+MS	Nova Andradina	43495
+MS	Novo Horizonte do Sul	4967
+MS	Paranaíba	38969
+MS	Paranhos	11092
+MS	Pedro Gomes	8307
+MS	Ponta Porã	72207
+MS	Porto Murtinho	14861
+MS	Ribas do Rio Pardo	19159
+MS	Rio Brilhante	26560
+MS	Rio Negro	4961
+MS	Rio Verde de Mato Grosso	18579
+MS	Rochedo	4346
+MS	Santa Rita do Pardo	7162
+MS	São Gabriel do Oeste	21063
+MS	Selvíria	6413
+MS	Sete Quedas	10659
+MS	Sidrolândia	38147
+MS	Sonora	12548
+MS	Tacuru	9203
+MS	Taquarussu	3117
+MS	Terenos	14458
+MS	Três Lagoas	85914
+MS	Vicentina	5627
+MT	Acorizal	5530
+MT	Água Boa	18991
+MT	Alta Floresta	49140
+MT	Alto Araguaia	13790
+MT	Alto Boa Vista	5025
+MT	Alto Garças	9132
+MT	Alto Paraguai	8144
+MT	Alto Taquari	6058
+MT	Apiacás	7926
+MT	Araguaiana	2974
+MT	Araguainha	1117
+MT	Araputanga	15335
+MT	Arenápolis	9869
+MT	Aripuanã	19100
+MT	Barão de Melgaço	7619
+MT	Barra do Bugres	32490
+MT	Barra do Garças	53243
+MT	Bom Jesus do Araguaia	4520
+MT	Brasnorte	13975
+MT	Cáceres	84175
+MT	Campinápolis	13666
+MT	Campo Novo do Parecis	22322
+MT	Campo Verde	25924
+MT	Campos de Júlio	4770
+MT	Canabrava do Norte	5337
+MT	Canarana	17183
+MT	Carlinda	12108
+MT	Castanheira	7808
+MT	Chapada dos Guimarães	17377
+MT	Cláudia	10670
+MT	Cocalinho	5841
+MT	Colíder	30695
+MT	Colniza	27882
+MT	Comodoro	17939
+MT	Confresa	21361
+MT	Conquista D'Oeste	3106
+MT	Cotriguaçu	13740
+MT	Cuiabá	526831
+MT	Curvelândia	4835
+MT	Denise	10349
+MT	Diamantino	18428
+MT	Dom Aquino	8261
+MT	Feliz Natal	10279
+MT	Figueirópolis D'Oeste	3648
+MT	Gaúcha do Norte	5816
+MT	General Carneiro	4803
+MT	Glória D'Oeste	3124
+MT	Guarantã do Norte	30754
+MT	Guiratinga	13883
+MT	Indiavaí	2524
+MT	Ipiranga do Norte	4129
+MT	Itanhangá	4703
+MT	Itaúba	4625
+MT	Itiquira	12159
+MT	Jaciara	24945
+MT	Jangada	8058
+MT	Jauru	10774
+MT	Juara	32023
+MT	Juína	38422
+MT	Juruena	8731
+MT	Juscimeira	11830
+MT	Lambari D'Oeste	4870
+MT	Lucas do Rio Verde	30741
+MT	Luciára	2405
+MT	Marcelândia	14084
+MT	Matupá	14243
+MT	Mirassol d'Oeste	24538
+MT	Nobres	14862
+MT	Nortelândia	6237
+MT	Nossa Senhora do Livramento	12386
+MT	Nova Bandeirantes	12742
+MT	Nova Brasilândia	4891
+MT	Nova Canaã do Norte	12652
+MT	Nova Guarita	4877
+MT	Nova Lacerda	4949
+MT	Nova Marilândia	2315
+MT	Nova Maringá	5554
+MT	Nova Monte Verde	8133
+MT	Nova Mutum	24368
+MT	Nova Nazaré	2745
+MT	Nova Olímpia	19474
+MT	Nova Santa Helena	3347
+MT	Nova Ubiratã	7782
+MT	Nova Xavantina	18670
+MT	Novo Horizonte do Norte	3802
+MT	Novo Mundo	6725
+MT	Novo Santo Antônio	2110
+MT	Novo São Joaquim	6880
+MT	Paranaíta	11540
+MT	Paranatinga	20033
+MT	Pedra Preta	15638
+MT	Peixoto de Azevedo	28987
+MT	Planalto da Serra	2734
+MT	Poconé	31118
+MT	Pontal do Araguaia	4966
+MT	Ponte Branca	1794
+MT	Pontes e Lacerda	37910
+MT	Porto Alegre do Norte	9639
+MT	Porto dos Gaúchos	6116
+MT	Porto Esperidião	9606
+MT	Porto Estrela	4011
+MT	Poxoréo	17592
+MT	Primavera do Leste	44729
+MT	Querência	10682
+MT	Reserva do Cabaçal	2505
+MT	Ribeirão Cascalheira	8677
+MT	Ribeirãozinho	2107
+MT	Rio Branco	5053
+MT	Rondolândia	3348
+MT	Rondonópolis	172783
+MT	Rosário Oeste	18031
+MT	Salto do Céu	3650
+MT	Santa Carmem	4319
+MT	Santa Cruz do Xingu	2116
+MT	Santa Rita do Trivelato	2478
+MT	Santa Terezinha	7293
+MT	Santo Afonso	2855
+MT	Santo Antônio do Leste	3249
+MT	Santo Antônio do Leverger	19197
+MT	São Félix do Araguaia	10713
+MT	São José do Povo	3305
+MT	São José do Rio Claro	17345
+MT	São José do Xingu	4198
+MT	São José dos Quatro Marcos	19001
+MT	São Pedro da Cipa	4028
+MT	Sapezal	14254
+MT	Serra Nova Dourada	1349
+MT	Sinop	105762
+MT	Sorriso	55134
+MT	Tabaporã	10484
+MT	Tangará da Serra	76657
+MT	Tapurah	10478
+MT	Terra Nova do Norte	14584
+MT	Tesouro	3109
+MT	Torixoréu	4101
+MT	União do Sul	3998
+MT	Vale de São Domingos	2873
+MT	Várzea Grande	230307
+MT	Vera	9188
+MT	Vila Bela da Santíssima Trindade	13886
+MT	Vila Rica	18934
+GO	Abadia de Goiás	5868
+GO	Abadiânia	12640
+GO	Acreúna	18553
+GO	Adelândia	2510
+GO	Água Fria de Goiás	5008
+GO	Água Limpa	2074
+GO	Águas Lindas de Goiás	131884
+GO	Alexânia	20033
+GO	Aloândia	2065
+GO	Alto Horizonte	3136
+GO	Alto Paraíso de Goiás	6638
+GO	Alvorada do Norte	8217
+GO	Amaralina	3492
+GO	Americano do Brasil	4698
+GO	Amorinópolis	3527
+GO	Anápolis	325544
+GO	Anhanguera	966
+GO	Anicuns	17705
+GO	Aparecida de Goiânia	475303
+GO	Aparecida do Rio Doce	2702
+GO	Aporé	3554
+GO	Araçu	3880
+GO	Aragarças	17156
+GO	Aragoiânia	7243
+GO	Araguapaz	7482
+GO	Arenópolis	3495
+GO	Aruanã	6476
+GO	Aurilândia	3719
+GO	Avelinópolis	2375
+GO	Baliza	3299
+GO	Barro Alto	6446
+GO	Bela Vista de Goiás	20615
+GO	Bom Jardim de Goiás	8372
+GO	Bom Jesus de Goiás	19574
+GO	Bonfinópolis	6744
+GO	Bonópolis	3160
+GO	Brazabrantes	3142
+GO	Britânia	5073
+GO	Buriti Alegre	8287
+GO	Buriti de Goiás	2238
+GO	Buritinópolis	3442
+GO	Cabeceiras	6610
+GO	Cachoeira Alta	8103
+GO	Cachoeira de Goiás	1410
+GO	Cachoeira Dourada	7567
+GO	Caçu	10892
+GO	Caiapônia	15747
+GO	Caldas Novas	62204
+GO	Caldazinha	3157
+GO	Campestre de Goiás	3411
+GO	Campinaçu	3765
+GO	Campinorte	9697
+GO	Campo Alegre de Goiás	5767
+GO	Campo Limpo de Goiás	5596
+GO	Campos Belos	18238
+GO	Campos Verdes	6331
+GO	Carmo do Rio Verde	8897
+GO	Castelândia	3530
+GO	Catalão	75623
+GO	Caturaí	4477
+GO	Cavalcante	9875
+GO	Ceres	18637
+GO	Cezarina	7361
+GO	Chapadão do Céu	5289
+GO	Cidade Ocidental	48589
+GO	Cocalzinho de Goiás	14762
+GO	Colinas do Sul	3856
+GO	Córrego do Ouro	2633
+GO	Corumbá de Goiás	9190
+GO	Corumbaíba	8001
+GO	Cristalina	36614
+GO	Cristianópolis	3041
+GO	Crixás	14547
+GO	Cromínia	3618
+GO	Cumari	3055
+GO	Damianópolis	3507
+GO	Damolândia	2688
+GO	Davinópolis	2013
+GO	Diorama	2236
+GO	Divinópolis de Goiás	5344
+GO	Doverlândia	8344
+GO	Edealina	3718
+GO	Edéia	10251
+GO	Estrela do Norte	3174
+GO	Faina	6918
+GO	Fazenda Nova	6373
+GO	Firminópolis	10286
+GO	Flores de Goiás	10382
+GO	Formosa	90212
+GO	Formoso	5241
+GO	Gameleira de Goiás	3289
+GO	Goianápolis	11159
+GO	Goiandira	4925
+GO	Goianésia	53806
+GO	Goiânia	1244645
+GO	Goianira	24110
+GO	Goiás	24472
+GO	Goiatuba	31225
+GO	Gouvelândia	4507
+GO	Guapó	13586
+GO	Guaraíta	2394
+GO	Guarani de Goiás	4105
+GO	Guarinos	2411
+GO	Heitoraí	3556
+GO	Hidrolândia	14004
+GO	Hidrolina	4157
+GO	Iaciara	12674
+GO	Inaciolândia	5650
+GO	Indiara	12703
+GO	Inhumas	44983
+GO	Ipameri	23114
+GO	Ipiranga de Goiás	2813
+GO	Iporá	31060
+GO	Israelândia	2827
+GO	Itaberaí	30609
+GO	Itaguari	4254
+GO	Itaguaru	5467
+GO	Itajá	5409
+GO	Itapaci	16003
+GO	Itapirapuã	8208
+GO	Itapuranga	24832
+GO	Itarumã	5338
+GO	Itauçu	8710
+GO	Itumbiara	88109
+GO	Ivolândia	2718
+GO	Jandaia	6373
+GO	Jaraguá	38968
+GO	Jataí	81972
+GO	Jaupaci	2998
+GO	Jesúpolis	2201
+GO	Joviânia	6731
+GO	Jussara	18814
+GO	Lagoa Santa	1225
+GO	Leopoldo de Bulhões	8916
+GO	Luziânia	196046
+GO	Mairipotaba	2655
+GO	Mambaí	6454
+GO	Mara Rosa	10409
+GO	Marzagão	2053
+GO	Matrinchã	4325
+GO	Maurilândia	10769
+GO	Mimoso de Goiás	2836
+GO	Minaçu	31041
+GO	Mineiros	45189
+GO	Moiporá	1848
+GO	Monte Alegre de Goiás	7155
+GO	Montes Claros de Goiás	7844
+GO	Montividiu	9255
+GO	Montividiu do Norte	4395
+GO	Morrinhos	38997
+GO	Morro Agudo de Goiás	2339
+GO	Mossâmedes	4954
+GO	Mozarlândia	13123
+GO	Mundo Novo	6877
+GO	Mutunópolis	3954
+GO	Nazário	7223
+GO	Nerópolis	19392
+GO	Niquelândia	38517
+GO	Nova América	2200
+GO	Nova Aurora	2094
+GO	Nova Crixás	12603
+GO	Nova Glória	8470
+GO	Nova Iguaçu de Goiás	2622
+GO	Nova Roma	3555
+GO	Nova Veneza	6884
+GO	Novo Brasil	3451
+GO	Novo Gama	83599
+GO	Novo Planalto	3986
+GO	Orizona	14374
+GO	Ouro Verde de Goiás	4430
+GO	Ouvidor	4736
+GO	Padre Bernardo	25969
+GO	Palestina de Goiás	3229
+GO	Palmeiras de Goiás	21199
+GO	Palmelo	2260
+GO	Palminópolis	3622
+GO	Panamá	2618
+GO	Paranaiguara	7724
+GO	Paraúna	10926
+GO	Perolândia	2748
+GO	Petrolina de Goiás	9864
+GO	Pilar de Goiás	2852
+GO	Piracanjuba	23310
+GO	Piranhas	11139
+GO	Pirenópolis	20460
+GO	Pires do Rio	26857
+GO	Planaltina	76376
+GO	Pontalina	16226
+GO	Porangatu	39238
+GO	Porteirão	3008
+GO	Portelândia	3310
+GO	Posse	28850
+GO	Professor Jamil	3298
+GO	Quirinópolis	38064
+GO	Rialma	10485
+GO	Rianápolis	4167
+GO	Rio Quente	2959
+GO	Rio Verde	149382
+GO	Rubiataba	18025
+GO	Sanclerlândia	7647
+GO	Santa Bárbara de Goiás	5658
+GO	Santa Cruz de Goiás	3542
+GO	Santa Fé de Goiás	4594
+GO	Santa Helena de Goiás	35027
+GO	Santa Isabel	3485
+GO	Santa Rita do Araguaia	5873
+GO	Santa Rita do Novo Destino	3372
+GO	Santa Rosa de Goiás	2851
+GO	Santa Tereza de Goiás	4145
+GO	Santa Terezinha de Goiás	11558
+GO	Santo Antônio da Barra	4134
+GO	Santo Antônio de Goiás	3893
+GO	Santo Antônio do Descoberto	55621
+GO	São Domingos	9786
+GO	São Francisco de Goiás	5713
+GO	São João da Paraúna	1699
+GO	São João d'Aliança	8177
+GO	São Luís de Montes Belos	26784
+GO	São Luíz do Norte	4266
+GO	São Miguel do Araguaia	22468
+GO	São Miguel do Passa Quatro	3680
+GO	São Patrício	2051
+GO	São Simão	13832
+GO	Senador Canedo	70559
+GO	Serranópolis	7333
+GO	Silvânia	18370
+GO	Simolândia	6915
+GO	Sítio d'Abadia	3251
+GO	Taquaral de Goiás	3404
+GO	Teresina de Goiás	2773
+GO	Terezópolis de Goiás	5620
+GO	Três Ranchos	2862
+GO	Trindade	97491
+GO	Trombas	3537
+GO	Turvânia	4962
+GO	Turvelândia	3852
+GO	Uirapuru	3021
+GO	Uruaçu	33382
+GO	Uruana	13712
+GO	Urutaí	2727
+GO	Valparaíso de Goiás	114450
+GO	Varjão	3649
+GO	Vianópolis	12187
+GO	Vicentinópolis	5919
+GO	Vila Boa	4198
+GO	Vila Propício	5044
+DF	Brasília	2455903
